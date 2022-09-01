@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IN264 - Enable, Configure, and Integrate a Central Inbox on SAP BTP
 
 ## Description
 
