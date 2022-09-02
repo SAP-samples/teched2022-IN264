@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called IN264 - Enable, Configure, and Integrate a Central Inbox on SAP BTP.  
+This repository contains the material for the SAP TechEd 2022 session "IN264 - Enable, Configure, and Integrate a Central Inbox on SAP BTP."
 
 ## Overview
 
