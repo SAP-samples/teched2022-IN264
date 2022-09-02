@@ -6,7 +6,9 @@ This repository contains the material for the SAP TechEd 2022 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+As part of our integration strategy, "One Workflow Inbox" is one of our suite qualities. The resulting product – SAP Task Center service on SAP Business Technology Platform (SAP BTP) – provides a central inbox across SAP solutions. Learn the building blocks and how to implement this integration scenario, from setting up SAP Task Center on SAP BTP, to configuring the connection with SAP S/4HANA and using the SAP Mobile Start app as a native entry point for mobile access. 
+
+![SAP BTP Sulution Diagram - SAP Task Center](images/taskcenter_scenario_btp_solution_diagram.png)
 
 ## Requirements
 
