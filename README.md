@@ -28,9 +28,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.2 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
     - [Exercise 1.3 - Configure LP ...](exercises/ex1#exercise-13-sub-exercise-3-description)
 - [Exercise 2 - Connect S4HOP](exercises/ex2/)
-    - [Exercise 2.1 - Destination Import](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check connection via Task Center Admin app](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.2 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.4 - Check the WF UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.5 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
 **OR** Link to the Tutorial Navigator for example...
