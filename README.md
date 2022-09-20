@@ -31,7 +31,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check connection via Task Center Admin app](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.3 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.4 - Check the WF UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.4 - Check the WF](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.5 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
