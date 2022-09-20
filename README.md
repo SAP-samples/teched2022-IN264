@@ -24,12 +24,13 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Getting Started, check the environment and system access](exercises/ex0/)
 - [Exercise 1 - Configure your BTP subaccount and enable SAP Task Center](exercises/ex1/)
-    - [Exercise 1.1 - Build the trust between your BTP subaccount and SAP Cloud Identity Services](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.1 - (precreate) prepared)Build the trust between your BTP subaccount and SAP Cloud Identity Services](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.3 - Manage users & assign roles](exercises/ex1#exercise-13-sub-exercise-3-description)
-- [Exercise 2 - Configure and run SAP Task Center](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 1.3 - Configure LP ...](exercises/ex1#exercise-13-sub-exercise-3-description)
+- [Exercise 2 - Connect S4HOP](exercises/ex2/)
+    - [Exercise 2.1 - Destination Import](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.2 - Check connection via Task Center Admin app](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.2 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
 **OR** Link to the Tutorial Navigator for example...
