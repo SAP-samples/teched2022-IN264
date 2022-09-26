@@ -26,5 +26,5 @@ From the lefthand navigation choose **"Security > Trust Configuration"**
 
 ## Summary
 
-Now that you have successfully validate the BTP access
-Continue to "Run the BTP Booster for setting up SAP Task Center"- [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Congratulations with this first excercise you have successfully validate the BTP access and required trus setup of your BTP subaccount:
+Continue now to "Run the BTP Booster for setting up SAP Task Center"- [Exercise 1 - Exercise 1 Description](../ex1/README.md)
