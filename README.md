@@ -22,17 +22,19 @@ The requirements to follow the exercises in this repository are knowledge about:
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started, check the environment and system access](exercises/ex0/)
+- [Getting Started & check your hands-on environment ](exercises/ex0/)
 - [Exercise 1 - Configure your BTP subaccount and enable SAP Task Center](exercises/ex1/)
-    - [Exercise 1.1 - (precreate) prepared)Build the trust between your BTP subaccount and SAP Cloud Identity Services](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.3 - Configure LP ...](exercises/ex1#exercise-13-sub-exercise-3-description)
+    - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.2 - Validate the results in your subaccount from the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-sub-exercise-3-description)
 - [Exercise 2 - Connect S4HOP](exercises/ex2/)
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check connection via Task Center Admin app](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.3 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.4 - Check the WF](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.5 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Troubleshooting](exercises/ex2/)
+- [Additional ressources](exercises/ex2/)
 
   
 **OR** Link to the Tutorial Navigator for example...
