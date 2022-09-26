@@ -23,9 +23,9 @@ The requirements to follow the exercises in this repository are knowledge about:
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
-- [Exercise 1 - Configure your BTP subaccount and enable SAP Task Center](exercises/ex1/)
+- [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
     - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.2 - Validate the results in your subaccount from the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.2 - Validate the the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-sub-exercise-3-description)
 - [Exercise 2 - Connect S4HOP](exercises/ex2/)
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
