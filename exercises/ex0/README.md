@@ -1,26 +1,30 @@
-# Level 1 Heading
+# Overview
 
-In this exercise, you will...
+In this exercise, you will test the access to the BTP environment and validate the configuration for you BTP subaccount.
 
-## Level 2 Heading
+## System accessx
 
-After completing these steps you will have....
+System / user details:
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+| Assigned subaccount|Platform user (BTP Admin)|Business User (Task approver)|
+| ------------- |:-------------:| -----:|
+| IN264-0xx| IN264-0xx-P| IN264-0xx-P|
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+**xx = assigned participant number from the speaker team**
+
+Please enter the BTP Cockpit URL:
+
+[SAP BTP Cockpit](https://cockpit.eu10.hana.ondemand.com/cockpit/?idp=tdcteched3.accounts.ondemand.com#/globalaccount/62d9c33d-1b44-4afa-9751-2cb0165ba817)
+
+And login with the BTP platform credentials for the pre created BTP subaccount.
+
+To ensure the successful execution, pls. validate the trust setup.
+From the lefthand navigation choose **"Security > Trust Configuration"**
+
+![](/exercises/ex0/images/trust_check.png)
+
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have successfully validate the BTP access
+Continue to "Run the BTP Booster for setting up SAP Task Center"- [Exercise 1 - Exercise 1 Description](../ex1/README.md)
