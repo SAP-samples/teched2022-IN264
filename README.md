@@ -24,9 +24,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
 - [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
-    - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.2 - Validate the the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-sub-exercise-3-description)
+    - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-11-execute-the-sap-task-center-booster)
+    - [Exercise 1.2 - Validate the the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-validate-the-the-booster-setup-of-sap-task-center)
+    - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
+    - [Summary](exercises/ex1#summary)
+    
 - [Exercise 2 - Connect S4HOP](exercises/ex2/)
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check connection via Task Center Admin app](exercises/ex2#exercise-22-sub-exercise-2-description)
