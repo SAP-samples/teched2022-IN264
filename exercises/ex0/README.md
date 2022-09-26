@@ -2,7 +2,7 @@
 
 In this exercise, you will test the access to the BTP environment and validate the configuration for you BTP subaccount.
 
-## System accessx
+## Validate system access
 
 System / user details:
 
