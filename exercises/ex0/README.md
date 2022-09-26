@@ -7,7 +7,7 @@ In this exercise, you will test the access to the BTP environment and validate t
 System / user details:
 
 | Assigned subaccount|Platform user (BTP Admin)|Business User (Task approver)|
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | IN264-0xx| IN264-0xx-P| IN264-0xx-P|
 
 **xx = assigned participant number from the speaker team**
