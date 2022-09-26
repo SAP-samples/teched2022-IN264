@@ -1,22 +1,16 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Enable SAP Task Center
 
-In this exercise, we will create...
+In this exercise, we will execute the BTP Booster to setup SAP Task Center service for your subaccount
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 execute the SAP Task Center Booster
 
-After completing these steps you will have created...
+After completing these steps you will have created/enabled SAP Task Center service in your BTP subaccount
 
 1. Click here.
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
 
-
-
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 validate the the "Booster" setup of SAP Task Center
 
 After completing these steps you will have...
 
@@ -31,6 +25,7 @@ READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
   ENDIF.
 
 ```
+## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
