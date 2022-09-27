@@ -1,6 +1,6 @@
 # Exercise 1 - Enable SAP Task Center
 
-In this exercise, we will execute the BTP Booster to setup SAP Task Center service on your subaccount
+In this exercise, we will execute the BTP Booster (Excercise 1.1.)to setup SAP Task Center service on your subaccount
 
 ## Exercise 1.1 execute the SAP Task Center Booster
 
@@ -35,7 +35,7 @@ After completing these steps you will have created/enabled SAP Task Center servi
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
 
-## Exercise 1.2 validate the the "Booster" setup of SAP Task Center
+## (optional) Exercise 1.2 validate the the "Booster" setup of SAP Task Center
 
 After completing these steps you will have...
 
