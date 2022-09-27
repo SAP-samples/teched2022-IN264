@@ -14,7 +14,7 @@ Search now by typing "Task Center" for the BTP Booster an presse the **Start** b
 
 In the upcomming windo you should now get the resut from the prerequsite check, this must be passed (if not pls.inform the TechEd session team):
 
-<br>![](/exercises/ex1/images/booster02.png)
+<br>![](/exercises/ex1/images/booster03.png)
 
 Press now the **Next** button from bottom right corner to move to the next phase of the BTP Booster.
 In this step validate yourself with the used and entitled services (Lauchpad and Task center), select the BTP subaccount and press the **Next** button.
@@ -27,7 +27,17 @@ In the last step check again the subaccount and start the execution by finally p
 
 <br>![](/exercises/ex1/images/booster05.png)
 
-In the upcoming screen you should now see the execution
+In the upcoming screen you should now see the execution of the diffent actions and the status:
+
+<br>![](/exercises/ex1/images/booster06.png)
+
+After the execution was successfully you should now see this summary with the option to configure the destinations or to jump in the SAP Help documentation.
+
+<br>![](/exercises/ex1/images/booster07.png)
+
+Pleas click on the first link to jump directly in your subaccount and the created destinations which we need to configure in our scenario in [excercise](exercises/ex2#exercise-21-sub-exercise-1-description). 
+
+<br>![](/exercises/ex1/images/destinations_overview.png)
 
 After completing these steps you will have created/enabled SAP Task Center service in your BTP subaccount
 
