@@ -18,7 +18,7 @@ As part of our integration strategy, "One Workflow Inbox" is one of our suite qu
 The requirements to follow the exercises in this repository are knowledge about:
 
 - [SAP Business Technologie Platform concepts](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/73beb06e127f4e47b849aa95344aabe1.html)
-- [SAP Launchpad service](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/9db48fa44f7e4c62a01bc74c82e74e07.html) setup and configuration
+- [SAP Launchpad service](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/9db48fa44f7e4c62a01bc74c82e74e07.html)
 - [SAP Cloud Identity Services](https://help.sap.com/docs/SAP_CLOUD_IDENTITY)
 
 ## Exercises
@@ -26,8 +26,9 @@ The requirements to follow the exercises in this repository are knowledge about:
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
 - [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
     - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-11-execute-the-sap-task-center-booster)
-    - [Exercise 1.2 - Unde](exercises/ex1#exercise-12-validate-the-the-booster-setup-of-sap-task-center)
+    - [Exercise 1.2 - Validate the "Booster" setup of SAP Task Center](exercises/ex1#exercise-12-validate-the-the-booster-setup-of-sap-task-center)
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
+    - [Exercise 1.4 - Enable Single-Sign-On (SSO) for SAP Task Center](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Summary](exercises/ex1#summary)
     - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 
