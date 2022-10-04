@@ -44,7 +44,9 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 ## Exercise 1.2 integrate the SAP Task Center service into SAP BTP Launchpad
 
-In BTP cockpit please select again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
+In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here also the official SAP Help doumentation](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure). 
+
+To get started select from the BTP cockpit again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
 
 <br>![](/exercises/ex1/images/lp_site_manager_access.png)
 
@@ -56,11 +58,13 @@ The status should be changed to "updating":
 
 <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
 
-Now we can move over to the "Content Manager":
+To validate that the SAP Task Center apps are now available we'll check the "Content Manager":
 
-<br>![](/exercises/ex1/images/lp_site_manager_content_manager.png)
+<br>![](/exercises/ex1/images/lp_site_manager_main_page.png)
 
 In the upcoming screen select the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
+
+<br>![](/exercises/ex1/images/lp_site_manager_content_manager.png)
 
 <br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
 
@@ -70,6 +74,13 @@ As result you should now see to entries/apps:
 2. Task Center Administration
 
 <br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
+
+Pleae select all entries an press the **Add to My Content** button. 
+If you now select the the first tab to validate the result, you should now identify the Task Center apps are now added to the items list:
+
+<br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
+
+The last step is now to assign the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)):
 
 ## Summary
 
