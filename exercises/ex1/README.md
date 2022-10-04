@@ -39,14 +39,18 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 <br>![](/exercises/ex1/images/destinations_overview.png)
 
-**Congratulations** with the successful execution of this excercise we can now go further with the SAP TasK Center by:
+**Congratulations** with the successful execution of this excercise we can now go further with the SAP Tas Center by setting up the Launchpad service to access the SAP Task Center application.
 
 
 ## Exercise 1.2 integrate the SAP Task Center service into SAP BTP Launchpad
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+In BTP cockpit please select again the **Instances and Subscriptions** entry, by clicking the icon you will enter the site manager to configure the launchpad service:
 
+<br>![](/exercises/ex1/images/lp_site_manager_access.png
+
+Afterwards you should now see the following:
+
+<br>![](/exercises/ex1/images/lp_site_manager_main_page.png
 
 ## Summary
 
