@@ -46,11 +46,11 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 In BTP cockpit please select again the **Instances and Subscriptions** entry, by clicking the icon you will enter the site manager to configure the launchpad service:
 
-<br>![](/exercises/ex1/images/lp_site_manager_access.png
+<br>![](/exercises/ex1/images/lp_site_manager_access.png)
 
 Afterwards you should now see the following:
 
-<br>![](/exercises/ex1/images/lp_site_manager_main_page.png
+<br>![](/exercises/ex1/images/lp_site_manager_main_page.png)
 
 ## Summary
 
