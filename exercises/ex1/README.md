@@ -44,13 +44,25 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 ## Exercise 1.2 integrate the SAP Task Center service into SAP BTP Launchpad
 
-In BTP cockpit please select again the **Instances and Subscriptions** entry, by clicking the icon you will enter the site manager to configure the launchpad service:
+In BTP cockpit please select again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
 
 <br>![](/exercises/ex1/images/lp_site_manager_access.png)
 
-Afterwards you should now see the following:
+In the next step click on the **Channel Manager** icon and refresh the "HTML5 Apps" channel by clicking the refresh icon:
 
-<br>![](/exercises/ex1/images/lp_site_manager_main_page.png)
+<br>![](/exercises/ex1/images/lp_site_manager_channel_manager_refresh.png)
+
+The status should be changed to "updating":
+
+<br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
+
+Now we can move over to the "Content Manager
+
+
+In the upcoming screen move please over to the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
+
+<br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
+
 
 ## Summary
 
