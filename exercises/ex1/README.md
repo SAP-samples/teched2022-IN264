@@ -76,27 +76,27 @@ In the upcoming excercise we will add the SAP Task Center apps to your BTP Launc
 
     <br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
 
-5. Pleae select all entries an press the **Add to My Content** button. 
-   If you now select the the first tab to validate the result, you should now identify the Task Center apps are now added to the items list:
+5. Select now all entries an press the **Add to My Content** button. 
+   If you now select the the first tab to validate the result, you should now identify the Task Center apps are added to the items list:
 
     <br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
 
 6. The last step is now to create a group and the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)).
 
-7. To enable the visibility of the SAP Task Center apps in the BTP Laucnhpade we need to create in the "Content Manager an new "Group".
+7. To enable the visibility of the SAP Task Center apps in the BTP Laucnhpad we need to create in the "Content Manager an new "Group".
    You cann add new content by clicking the **+ New** button afterwards select **Group**:
 
     <br>![](/exercises/ex1/images/lp_site_manager_create_group.png)
 
-   Provide a name and a description and click in input filed in the upper right corner, finally press for each app the **+** button and save your changes:
+   Provide a name and a description and click (**Important**) in input field in the upper right corner, you will otherwise not see the apps. Finally press for each app the **+** button and save your changes:
 
     <br>![](/exercises/ex1/images/lp_site_manager_group_add_apps.png)
 
-8. Assing now also booth SAP Task Center apps to "everyone" role, if u want to create a own "custom" role have a look in the [official SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html) to follow the required steps.
+8. Assing now the SAP Task Center apps to "everyone" role, if u want to create a own "custom" role have a look in the [official SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html) to follow the required steps.
 
     <br>![](/exercises/ex1/images/lp_site_manager_role_add_apps.png)
 
-9. The alsmost las step is now to create launchpad site by creating an new one in the "Site Manager".
+9. The alsmost last step is now to create launchpad site by creating an new "site" in the "Site Manager".
     Please navigate for this in the "Site Directory": 
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_directory.png)
@@ -104,6 +104,38 @@ In the upcoming excercise we will add the SAP Task Center apps to your BTP Launc
 10. create a "new" site:
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_directory_new_site.png)
+
+11. Afterwards you are able to see all settings for your newly created launchpad site, to enter it via the "Task Center business user" open the URL via the "Incognito" mode:
+
+    <br>![](/exercises/ex1/images/lp_site_manager_site_edit.png)
+
+12. After providing the credentials from the "**business user**" you should now identify the "Task Center tiles":
+
+    <br>![](/exercises/ex1/images/lp_site_launch.png)
+
+13. By entering the first (Task Center) tile you should now see the (empty) SAP Tas Center application:
+
+    <br>![](/exercises/ex1/images/tc_final.png)
+
+14. (optional) by changing the theme of your BTP launchpad site you can also adapt the site to the new "**SAP Horizon Theme**". 
+
+    Select the settings from your profile (upper right corner) and select "**Settings**":
+
+    <br>![](/exercises/ex1/images/theme_01.png)
+
+    Choose now one of the booth "Horozon" themes: 
+
+    <br>![](/exercises/ex1/images/theme_02.png)
+
+    And check the result (example: SAP Evening Theme):
+
+    <br>![](/exercises/ex1/images/theme_03.png)
+
+**Congratulations** with this you can now access the SAP Task Center applications via the BTP Launchpad service !!!
+In the next excercise we will configure "Single-Sign-On" (SSO) with SAP Cloud Identity Services.
+
+    
+
 
 
 ## Summary
