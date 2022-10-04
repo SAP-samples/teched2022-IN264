@@ -46,41 +46,41 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here also the official SAP Help doumentation](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure). 
 
-To get started select from the BTP cockpit again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
+1. To get started select from the BTP cockpit again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
 
 <br>![](/exercises/ex1/images/lp_site_manager_access.png)
 
-In the next step click on the **Channel Manager** icon and refresh the "HTML5 Apps" channel by clicking the refresh icon:
+2. In the next step click on the **Channel Manager** icon and refresh the "HTML5 Apps" channel by clicking the refresh icon:
 
-<br>![](/exercises/ex1/images/lp_site_manager_channel_manager_refresh.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_refresh.png)
 
-The status should be changed to "updating":
+3. The status should be changed to "updating":
 
-<br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
 
-To validate that the SAP Task Center apps are now available we'll check the "Content Manager":
+    To validate that the SAP Task Center apps are now available we'll check the "Content Manager":
 
-<br>![](/exercises/ex1/images/lp_site_manager_main_page.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_main_page.png)
 
-In the upcoming screen select the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
+4. In the upcoming screen select the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
 
-<br>![](/exercises/ex1/images/lp_site_manager_content_manager.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_content_manager.png)
 
-<br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
 
-As result you should now see to entries/apps:
+    As result you should now see to entries/apps:
 
-1. Task Center
-2. Task Center Administration
+    1. Task Center
+    2. Task Center Administration
 
-<br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
 
-Pleae select all entries an press the **Add to My Content** button. 
-If you now select the the first tab to validate the result, you should now identify the Task Center apps are now added to the items list:
+5. Pleae select all entries an press the **Add to My Content** button. 
+   If you now select the the first tab to validate the result, you should now identify the Task Center apps are now added to the items list:
 
-<br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
+    <br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
 
-The last step is now to create a group and the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)).
+6. The last step is now to create a group and the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)).
 
 To enable the visibility of the SAP Task Center apps in the BTP Laucnhpade we need to create in the "Content Manager an new "Group".
 You cann add new content by clicking the **+ New** button afterwards select **Group**:
