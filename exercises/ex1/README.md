@@ -80,7 +80,16 @@ If you now select the the first tab to validate the result, you should now ident
 
 <br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
 
-The last step is now to assign the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)):
+The last step is now to create a group and the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)).
+
+To enable the visibility of the SAP Task Center apps in the BTP Laucnhpade we need to create in the "Content Manager an new "Group".
+You cann add new content by clicking the **+ New** button afterwards select **Group**:
+
+<br>![](/exercises/ex1/images/lp_site_manager_create_group.png)
+
+Provide a name and a description and click in input filed in the upper right corner, finally press for each app the **+** button:
+
+<br>![](/exercises/ex1/images/lp_site_manager_group_add_apps.png)
 
 ## Summary
 
