@@ -100,6 +100,11 @@ In the upcoming excercise we will add the SAP Task Center apps to your BTP Launc
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_directory.png)
 
+10. create a "new" site:
+
+    <br>![](/exercises/ex1/images/lp_site_manager_site_directory_new_site.png)
+
+
 ## Summary
 
 You've now ...
