@@ -56,13 +56,20 @@ The status should be changed to "updating":
 
 <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
 
-Now we can move over to the "Content Manager
+Now we can move over to the "Content Manager":
 
+<br>![](/exercises/ex1/images/lp_site_manager_content_manager.png)
 
-In the upcoming screen move please over to the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
+In the upcoming screen select the second tab (Content Explorer) and click on the **HTML5 Apps** tile:
 
 <br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
 
+As result you should now see to entries/apps:
+
+1. Task Center
+2. Task Center Administration
+
+<br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
 
 ## Summary
 
