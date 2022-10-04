@@ -41,8 +41,9 @@ Pleas click on the first link to jump directly in your subaccount and the create
 
 **Congratulations** with the successful execution of this excercise we can now go further with the SAP Tas Center by setting up the Launchpad service to access the SAP Task Center application.
 
+## Exercise 1.2 Enable SAP Task Center manually
 
-## Exercise 1.2 integrate the SAP Task Center service into SAP BTP Launchpad
+## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
 In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here also the official SAP Help doumentation](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure). 
 

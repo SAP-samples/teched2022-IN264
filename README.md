@@ -25,11 +25,13 @@ The requirements to follow the exercises in this repository are knowledge about:
 
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
 - [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
-    - [Exercise 1.1 - Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-11-execute-the-sap-task-center-booster)
+    - [Exercise 1.1 - (Option A) Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-11-execute-the-sap-task-center-booster)
+    - [Exercise 1.2 - (Option B) Enable SAP Task Center manually](exercises/ex1#exercise-12-execute-the-sap-task-center-setup-manual)
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Exercise 1.4 - Enable Single-Sign-On (SSO) for SAP Task Center](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Summary](exercises/ex1#summary)
-    - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
+
+- [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 
 - [Exercise 2 - Connect S4HOP](exercises/ex2/)
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2#exercise-21-sub-exercise-1-description)
@@ -37,9 +39,10 @@ The requirements to follow the exercises in this repository are knowledge about:
     - [Exercise 2.3 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.4 - Check the WF](exercises/ex2#exercise-22-sub-exercise-2-description)
     
-- [Exercise 3 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
-- [Exercise 4 - Connect SAP Process Automation](exercises/ex3/)
-    - [Exercise 4.1 - Create SPA Destination](exercises/ex3#exercise-31-sub-exercise-1-description)
+- [Exercise 3 - Connect SAP Process Automation](exercises/ex3/)
+    - [Exercise 3.1 - Create SPA Destination](exercises/ex3#exercise-31-sub-exercise-1-description)
+
+- [Exercise 4 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
 
 - [Troubleshooting](exercises/ex2/)
 - [Additional ressources](exercises/ex2/)
