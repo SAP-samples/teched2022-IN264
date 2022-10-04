@@ -37,6 +37,10 @@ The requirements to follow the exercises in this repository are knowledge about:
     - [Exercise 2.3 - Update UUID](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.4 - Check the WF](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.5 - Connect Mobile Start](exercises/ex2#exercise-22-sub-exercise-2-description)
+
+- [Exercise 3 - Connect SAP Process Automation](exercises/ex3/)
+    - [Exercise 3.1 - Create SPA Destination](exercises/ex3#exercise-31-sub-exercise-1-description)
+
 - [Troubleshooting](exercises/ex2/)
 - [Additional ressources](exercises/ex2/)
 
