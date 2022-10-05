@@ -25,7 +25,7 @@ Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces 
 
 **Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
 
-    <br>![](/exercises/ex1/images/booster04.png)
+  <br>![](/exercises/ex1/images/booster04.png)
 
 4. In the last step check again the subaccount and start the execution by finally press **Finish**.
 
