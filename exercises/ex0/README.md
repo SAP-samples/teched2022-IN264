@@ -8,7 +8,7 @@ System / user details:
 
 | Assigned subaccount|Platform user (BTP Admin)|Business User (Task approver)|
 | ------------- |-------------| -----|
-| IN264-0xx| IN264-0xx-P| IN264-0xx-P|
+| IN264-0xx| IN264-0xx-P| IN264-0xx|
 
 **xx = assigned participant number from the speaker team**
 

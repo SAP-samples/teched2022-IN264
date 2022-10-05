@@ -34,11 +34,11 @@ Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces 
 
     <br>![](/exercises/ex1/images/booster06.png)
 
-After the execution was successfully you should now see this summary with the option to configure the destinations or to jump in the SAP Help documentation.
+After the successful execution you get a popup with the option to configure the destinations or to jump in the SAP Help documentation.
 
 <br>![](/exercises/ex1/images/booster07.png)
 
-Pleas click on the first link to jump directly in your subaccount and the created destinations which we need to configure in our scenario in [excercise](exercises/ex2#exercise-21-sub-exercise-1-description). 
+Pleas click on the first link to enter your subaccount. 
 
 <br>![](/exercises/ex1/images/destinations_overview.png)
 
@@ -137,7 +137,14 @@ In the upcoming excercise we will add the SAP Task Center apps to your BTP Launc
 **Congratulations** with this you can now access the SAP Task Center applications via the BTP Launchpad service !!!
 In the next excercise we will configure "Single-Sign-On" (SSO) with SAP Cloud Identity Services.
 
-    
+
+## Exercise 1.4 Enable Single-Sign-On (SSO) for SAP Task Center
+
+To enable SSO we need to enter the "profile" page from the SAP Cloud Identity services tenant:
+
+URL: https://tdcteched3.accounts.ondemand.com/profile
+User: IN264-0xx (xx = your assigned number)
+Pw.: Welcome1!
 
 
 
