@@ -142,9 +142,20 @@ In the next excercise we will configure "Single-Sign-On" (SSO) with SAP Cloud Id
 
 To enable SSO we need to enter the "profile" page from the SAP Cloud Identity services tenant:
 
-URL: https://tdcteched3.accounts.ondemand.com/profile
+URL: https://tdcteched3.accounts.ondemand.com
 User: IN264-0xx (xx = your assigned number)
 Pw.: Welcome1!
+
+<br>![](/exercises/ex1/images/user_profile_logon.png)
+
+Click on the "Generate" Button:
+
+<br>![](/exercises/ex1/images/user_profile_generate_cert.png)
+
+Specify now a password:
+
+<br>![](/exercises/ex1/images/user_profile_cert_pw.png)
+
 
 
 
