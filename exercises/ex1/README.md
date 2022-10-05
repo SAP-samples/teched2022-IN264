@@ -1,35 +1,39 @@
 # Exercise 1 - Enable SAP Task Center
 
-In this exercise, we will execute the BTP Booster (Excercise 1.1.)to setup SAP Task Center service on your subaccount
+In this exercise, we will execute the BTP Booster (Excercise 1.1.)to setup SAP Task Center service on your subaccount to enable SAP Task Center.
+Alternative you can also following the steps for the manual setup.
+After SAP Task Center is enabled in your BTP subaccount we will no configure the BTP Launchpad service to integrate the SAP Task Center apps.
+Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces to SAP Task Center web application without using basic authentication.
 
 ## Exercise 1.1 execute the SAP Task Center Booster
 
-To run the BTP Booster for SAP Task Center, choose from the left hand navigation (ensure that you are on the BTP Glob Account level and not inside the BTP subaccount) the **Booster** entry:
+1. To run the BTP Booster for SAP Task Center , choose from the left hand navigation (ensure that you are on the BTP Glob Account level and not inside the BTP subaccount) the **Booster** entry:
 
-<br>![](/exercises/ex1/images/booster01.png)
+    <br>![](/exercises/ex1/images/booster01.png)
 
-Search now by typing "Task Center" for the BTP Booster an presse the **Start** button on the tile:
+2. Search now by typing **"Task Center"** for the BTP Booster an presse the **Start** button on the tile:
 
-<br>![](/exercises/ex1/images/booster02.png)
+    <br>![](/exercises/ex1/images/booster02.png)
 
-In the upcomming windo you should now get the resut from the prerequsite check, this must be passed (if not pls.inform the TechEd session team):
+    In the upcomming windo you should now get the resut from the prerequsite check, this must be passed (if not pls.inform the TechEd session team):
 
-<br>![](/exercises/ex1/images/booster03.png)
+    <br>![](/exercises/ex1/images/booster03.png)
 
-Press now the **Next** button from bottom right corner to move to the next phase of the BTP Booster.
-In this step validate yourself with the used and entitled services (Lauchpad and Task center), select the BTP subaccount and press the **Next** button.
-The SAP Task Center setup will be executed in this subaccount! 
+3. Press now the **Next** button from bottom right corner to move to the next phase of the BTP Booster.
+  In this step validate yourself with the used and entitled services (Lauchpad and Task center), select the BTP subaccount and press the **Next** button.
+  The SAP Task Center setup will be executed in this subaccount! 
+
 **Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
 
-<br>![](/exercises/ex1/images/booster04.png)
+    <br>![](/exercises/ex1/images/booster04.png)
 
-In the last step check again the subaccount and start the execution by finally press **Finish**.
+4. In the last step check again the subaccount and start the execution by finally press **Finish**.
 
-<br>![](/exercises/ex1/images/booster05.png)
+    <br>![](/exercises/ex1/images/booster05.png)
 
-In the upcoming screen you should now see the execution of the diffent actions and the status:
+    In the upcoming screen you should now see the execution of the diffent actions and the status:
 
-<br>![](/exercises/ex1/images/booster06.png)
+    <br>![](/exercises/ex1/images/booster06.png)
 
 After the execution was successfully you should now see this summary with the option to configure the destinations or to jump in the SAP Help documentation.
 
