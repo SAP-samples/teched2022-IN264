@@ -22,9 +22,8 @@ Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces 
 3. Press now the **Next** button from bottom right corner to move to the next phase of the BTP Booster.
   In this step validate yourself with the used and entitled services (Lauchpad and Task center), select the BTP subaccount and press the **Next** button.
   The SAP Task Center setup will be executed in this subaccount! 
-
-**Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
-
+  
+  **Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
   <br>![](/exercises/ex1/images/booster04.png)
 
 4. In the last step check again the subaccount and start the execution by finally press **Finish**.
