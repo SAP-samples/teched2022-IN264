@@ -26,7 +26,7 @@ The requirements to follow the exercises in this repository are knowledge about:
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
 - [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
     - [Exercise 1.1 - (Option A) Run the BTP Booster for setting up SAP Task Center](exercises/ex1#exercise-11-execute-the-sap-task-center-booster)
-    - [Exercise 1.2 - (Option B) Enable SAP Task Center manually](exercises/ex1#exercise-12-execute-the-sap-task-center-setup-manual)
+    - [Exercise 1.2 - (Option B) Enable SAP Task Center manually](exercises/ex1#exercise-12-enable-sap-task-center-manually)
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Exercise 1.4 - Enable Single-Sign-On (SSO) for SAP Task Center](exercises/ex1#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Summary](exercises/ex1#summary)
