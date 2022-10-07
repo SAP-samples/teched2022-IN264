@@ -158,8 +158,14 @@ Specify a password:
 
 <br>![](/exercises/ex1/images/user_profile_cert_pw.png)
 
-Afterwards a download of the "new" certificate will start, please store the file on a known place in the file system.
+Afterwards a download of the "new" certificate will start, please store the file on a known place in the file system and open (double click) the file.
+In the upcomming wizard step trough all steps w/o changin the defaults:
 
+<br>![](/exercises/ex1/images/user_profile_cert_import1.png)
+
+Provide here also the password which u have defined before:
+
+<br>![](/exercises/ex1/images/user_profile_cert_import2.png)
 
 ## Summary
 
