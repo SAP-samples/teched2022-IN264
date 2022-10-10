@@ -182,5 +182,11 @@ You can now switch back to main page of the hands-on or directly start with "[Ex
 
 You've now ...
 
+- enabled SAP Task Center in your TechEd subbaccount successfully ![](/exercises/ex1/images/Checkmark_R_green.png)
+
+- configured the BTP Lauchpad service & integrated the SAP Task Center applications ![](/exercises/ex1/images/Checkmark_R_orange.png)
+
+- setting up single-sign-on (SSO) to use the certificate based logon for the BTP Launchpad service to access the SAP Task Center applications ![](/exercises/ex1/images/Checkmark_R_purple.png)
+
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
