@@ -186,7 +186,10 @@ You've now ...
 
 - configured the BTP Lauchpad service & integrated the SAP Task Center applications <img src="/exercises/ex1/images/Checkmark_R_orange.png" height="40" width="40" >
 
-- setting up single-sign-on (SSO) to use the certificate based logon for the BTP Launchpad service to access the SAP Task Center applications <img src="/exercises/ex1/images/Checkmark_R_purple.png" height="40" width="40" >
+- setting up SSO to use the certificate based logon for the BTP Launchpad service to access the SAP Task Center applications <img src="/exercises/ex1/images/Checkmark_R_purple.png" height="40" width="40" >
+
+<img src="/exercises/ex1/images/hero.png" height="80" width="80" >
+
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
