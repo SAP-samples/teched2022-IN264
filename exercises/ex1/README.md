@@ -82,6 +82,8 @@ After all prerquisites are met, we can now start to setup SAP Task Center.
 Switch now to **Instances and Subscriptions**  to get started and press **create**:
 In the upcomming screen we need now to create:
 
+<br>![](/exercises/ex1/images/start_create_sub_and_instances.png)
+
 1. The subscription to the BTP Laucnhpad service:
 
   <br>![](/exercises/ex1/images/create_lp_sub.png)
