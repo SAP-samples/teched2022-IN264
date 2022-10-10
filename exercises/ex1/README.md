@@ -70,7 +70,7 @@ Please perfom the following steps for the vaildation:
 3. Additional search for "Launchpad" ta vaildate also that this service is entitled for the subaccount.
 <br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
-In the next step to get Task Center instanciated we need to enable **Cloud Foundry**:
+In the next step we also need to enable the **Cloud Foundry** environment:
 
 <br>![](/exercises/ex1/images/enable_cf.png)
 
@@ -97,9 +97,10 @@ In the upcomming screen we need now to create:
   <br>![](/exercises/ex1/images/create_lp_sub_sucess.png)
 
 
-2.  To create the Task Center instance w
+2.  To create the Task Center instance just press again the **create** button and select the SAP Task Center service.
+    Please specify a "Instance Name" and create the instance:
 
-2
+  <br>![](/exercises/ex1/images/create_lp_sub_sucess.png)
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
