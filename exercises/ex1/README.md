@@ -176,7 +176,7 @@ And afterwards you are successfully logged on at the BTP Launchpad site with the
 <br>![](/exercises/ex1/images/cert_based_logon_lp.png)
 
 **Congratulations** you have now finished the entire "[Excercise 1](exercises/ex1/README.md)" after completing this last step.
-You can now switch back to main page of the hands-on or directly start with "[Excercise 2](exercises/ex2/README.md)"
+You can now switch back to main page of the hands-on or directly start with "[Excercise 2](../ex2/README.md)"
 
 ## Summary
 
