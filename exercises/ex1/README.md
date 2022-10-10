@@ -46,6 +46,20 @@ Pleas click on the first link to enter your subaccount.
 
 ## Exercise 1.2 Enable SAP Task Center manually
 
+For the setup of SAP Task Center manually, its requred to exectute some steps.
+To ensure that the BTP subaccount is well perepared we need to check the availbilty of the follwoing BTP services:
+
+- SAP Task Center
+- SAP BTP Launchpad
+
+Please perfom the following steps for the vaildation:
+
+1. Enter your BTP subbaccount an choose from the left hand navigation the **Entitlements** entry.
+
+2. Search now for "Task Center" to ensure the service is entitled for the subaccount:
+
+3. Additional search for "Launchpad" ta vaildate also that this service is entitled for the subaccount.
+
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
 In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here also the official SAP Help doumentation](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure). 
@@ -191,5 +205,5 @@ You've now ...
 <br><img src="/exercises/ex1/images/hero.png" height="100" width="100" >
 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Integrate SAP S/4HANA as task provider](../ex2/README.md)
 
