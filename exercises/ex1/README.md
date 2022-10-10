@@ -76,7 +76,7 @@ In the next step to get Task Center instanciated we need to enable **Cloud Found
 
 Create a **Space**:
 
-<br>![](/exercises/ex1/images/enable_cf.png)
+<br>![](/exercises/ex1/images/create_space.png)
 
 After all prerquisites are met, we can now start to setup SAP Task Center.
 Switch now to **Instances and Subscriptions**  to get started and press **create**:
