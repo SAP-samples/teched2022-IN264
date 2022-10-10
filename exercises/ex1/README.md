@@ -57,12 +57,14 @@ Please perfom the following steps for the vaildation:
 1. Enter your BTP subbaccount an choose from the left hand navigation the **Entitlements** entry.
 
 2. Search now for "Task Center" to ensure the service is entitled for the subaccount:
+<br>![](/exercises/ex1/images/manual_check_stc_entitlem.png)
 
 3. Additional search for "Launchpad" ta vaildate also that this service is entitled for the subaccount.
+<br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
-In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here also the official SAP Help doumentation](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure). 
+In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure) also the official SAP Help doumentation. 
 
 1. To get started select from the BTP cockpit again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
 
