@@ -182,7 +182,7 @@ You can now switch back to main page of the hands-on or directly start with "[Ex
 
 You've now ...
 
-- enabled SAP Task Center in your TechEd subbaccount successfully ![](/exercises/ex1/images/Checkmark_R_green.png)
+- enabled SAP Task Center in your TechEd subbaccount successfully ![](/exercises/ex1/images/Checkmark_R_green.png | width=20)
 
 - configured the BTP Lauchpad service & integrated the SAP Task Center applications ![](/exercises/ex1/images/Checkmark_R_orange.png)
 
