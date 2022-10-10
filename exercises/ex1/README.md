@@ -163,9 +163,20 @@ In the upcomming wizard step trough all steps w/o changin the defaults:
 
 <br>![](/exercises/ex1/images/user_profile_cert_import1.png)
 
-Provide here also the password which u have defined before:
+Provide here also the password which u have defined before and import the certificate:
 
 <br>![](/exercises/ex1/images/user_profile_cert_import2.png)
+
+By entering now the BTP Launchpad site url you should now able to select a certificate:
+
+<br>![](/exercises/ex1/images/cert_based_logon.png)
+
+And afterwards you are successfully logged on at the BTP Launchpad site with the SAP Task Center applications:
+
+<br>![](/exercises/ex1/images/cert_based_logon_lp.png)
+
+**Congratulations** you have now finished the entire "Excercise 1" after completing this last step.
+You can now switch back to main page of the hands-on or directly start with "Excercise 2"
 
 ## Summary
 
