@@ -49,8 +49,8 @@ Pleas click on the first link to enter your subaccount.
 For the setup of SAP Task Center manually, its requred to exectute some steps.
 To ensure that the BTP subaccount is well perepared we need to check the availbilty of the follwoing BTP services:
 
-- SAP Task Center
-- SAP BTP Launchpad
+- [SAP Task Center](https://discovery-center.cloud.sap/serviceCatalog/sap-task-center?region=all)
+- [SAP BTP Launchpad](https://discovery-center.cloud.sap/serviceCatalog/launchpad-service?region=all)
 
 Please perfom the following steps for the vaildation:
 
