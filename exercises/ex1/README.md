@@ -70,6 +70,8 @@ Please perfom the following steps for the vaildation:
 3. Additional search for "Launchpad" ta vaildate also that this service is entitled for the subaccount.
 <br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
+After 
+
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
 In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure) also the official SAP Help doumentation. 
