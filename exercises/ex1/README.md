@@ -188,7 +188,7 @@ You've now ...
 
 - setting up SSO to use the certificate based logon for the BTP Launchpad service to access the SAP Task Center applications <img src="/exercises/ex1/images/Checkmark_R_purple.png" height="40" width="40" >
 
-<img src="/exercises/ex1/images/hero.png" height="80" width="80" >
+<br><img src="/exercises/ex1/images/hero.png" height="100" width="100" >
 
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
