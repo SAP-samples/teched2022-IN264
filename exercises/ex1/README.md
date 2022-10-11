@@ -127,18 +127,17 @@ The last step for this excecise is now to create a new destination to integrate 
 
 | Property | Value |
 | ------------- |-------------|
-| Service Instance:| ***Name from the prevoius created "Service Instance"***|
+| Service Instance:| ***Name from the previous created "Service Instance"***|
 | Name:| ***sap_task_center_lp***|
 | Description: | ***Description of yoour choice***|
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
 
-
-
+**Congratulations** by completing the manual setup of SAP Task Center, you can now start to configure the BTP Launchpad to integrate the SAP Task Center applications.
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
-In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure) also the official SAP Help doumentation. 
+In the upcoming excercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure) also the official SAP Help doumentation for more details. 
 
 1. To get started select from the BTP cockpit again the **Instances and Subscriptions** entry from the BTP navigation, by clicking the icon you will enter the site manager to configure the launchpad service:
 
