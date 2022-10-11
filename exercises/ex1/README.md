@@ -133,7 +133,7 @@ The last step for this excecise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
 
-**Congratulations** you've now completed all necccessary steps for the initial setup of SAP Task Center. In the next excercise we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
+**Congratulations** you've now completed all necccessary steps for the initial setup of SAP Task Center. In the next [excercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
