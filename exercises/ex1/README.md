@@ -100,7 +100,22 @@ In the upcomming screen we need now to create:
 2.  To create the Task Center instance just press again the **create** button and select the SAP Task Center service.
     Please specify a "Instance Name" and create the instance:
 
-  <br>![](/exercises/ex1/images/create_lp_sub_sucess.png)
+  <br>![](/exercises/ex1/images/stc_inst_create.png)
+
+  Afterwards the creation starts now similar to the BTP Launchpad:
+
+  <br>![](/exercises/ex1/images/stc_inst_create_prc.png)
+
+  And should be finished after a couple of minutes:
+
+  <br>![](/exercises/ex1/images/stc_inst_create_success.png)
+
+
+3. (Optional) If u want to call the SAP Task Center API for example via Postman you need to create a "Service Key":
+
+  <br>![](/exercises/ex1/images/stc_inst_create_sk.png)
+
+
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
 
