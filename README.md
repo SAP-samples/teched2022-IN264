@@ -14,7 +14,7 @@ As part of our integration strategy, "One Workflow Inbox" is one of our suite qu
 
 //TODO describe scenario of this session (configure Task Center as BTP Admin and test scenario as business user)
 
-[SAP BTP Solution Diagram - SAP Task Center](images/0_btp_taskcenter_teched_scenario.png)
+![SAP BTP Solution Diagram - SAP Task Center](images/0_btp_taskcenter_teched_scenario.png)
 
 ## Requirements
 
