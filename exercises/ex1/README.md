@@ -115,6 +115,25 @@ In the upcomming screen we need now to create:
 
   <br>![](/exercises/ex1/images/stc_inst_create_sk.png)
 
+The last step for this excecise is now to create a new destination to integrate SAP Task Center in the BTP Launchpad.
+
+1. Please switch now to **Destinations** and create a **New Destination**:
+
+  <br>![](/exercises/ex1/images/destination.png)
+
+2. We'll now create a new destiantion for the integration of SAP Task Center into the BTP Launchpad, Choose from the 'Destination Configuration":
+
+  - **Service Instance**
+
+| Property | Value |
+| ------------- |-------------|
+| Service Instance:| ***Name from the prevoius created "Service Instance"***|
+| Name:| ***sap_task_center_lp***|
+| Description: | ***Description of yoour choice***|
+
+  <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
+
+
 
 
 ## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
