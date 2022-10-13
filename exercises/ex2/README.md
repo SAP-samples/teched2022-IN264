@@ -32,6 +32,11 @@ Option 1: Create destination manually
 **HINT**: When typing properties names directly in the interface, the first character of the property will be added in uppercase. Type the properties names in Notepad and paste into the user interface instead.
 <br>![](/exercises/ex2/images/S4Destination3.png)
 
+ 5. Click **Save**.
+ 6. Click **Check Connection** and confirm connection is successful.
+ <br>![](/exercises/ex2/images/S4Destination5.png)
+ 
+ 
 Option 2: Import a destination
 
 1. In your subaccount, expand Connectivity and click **Destinations**.
@@ -40,7 +45,13 @@ Option 2: Import a destination
 2.	Click **Import Destination**.
 <br>![](/exercises/ex2/images/S4Destination4-1.png)
 
-3. 
+3. Select the provided destination file and click **Open**.
+4. Update the following properties and click **Save**:
+   * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
+   * __Password__: Welcome123
+<br>![](/exercises/ex2/images/S4Destination4.png)
+6. Click **Check Connection** and confirm connection is successful.
+ <br>![](/exercises/ex2/images/S4Destination5.png)
 ## Exercise 2.2 Sub Exercise 2 Description
 
 After completing these steps you will have...
