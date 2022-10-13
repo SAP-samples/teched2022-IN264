@@ -4,7 +4,7 @@ In this exercise, we will create...
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
-After completing these steps you will have create a destination in SAP BTP that is used 
+The SAP Task Center communicates with the task provider applications via predefined destinations in a customer subaccount.  After completing this exercise you will setup the destination required for SAP Task Center to pull tasks from SAP S/4HANA on-premise system.
 
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
