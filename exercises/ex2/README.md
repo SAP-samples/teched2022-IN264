@@ -7,6 +7,7 @@ In this exercise, we will create...
 The SAP Task Center communicates with the task provider applications via predefined destinations in a customer subaccount.  After completing this exercise you will setup the destination required for SAP Task Center to pull tasks from SAP S/4HANA on-premise system.  For this exercise you have the option to create the destination manually or import a pre-created destination.  
 
 Option 1: Create destination manually
+
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
 
@@ -37,7 +38,7 @@ Option 1: Create destination manually
  <br>![](/exercises/ex2/images/S4Destination5.png)
  
  
-Option 2: Import a destination
+Option 2: Import a pre-created destination (only completed if you skipped the option to create the destination manually)
 
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
@@ -46,12 +47,15 @@ Option 2: Import a destination
 <br>![](/exercises/ex2/images/S4Destination4-1.png)
 
 3. Select the provided destination file and click **Open**.
-4. Update the following properties and click **Save**:
+4. Update the following properties for the imported destination:
    * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
    * __Password__: Welcome123
 <br>![](/exercises/ex2/images/S4Destination4.png)
+5. Click **Save**.
 6. Click **Check Connection** and confirm connection is successful.
  <br>![](/exercises/ex2/images/S4Destination5.png)
+ 
+ 
 ## Exercise 2.2 Sub Exercise 2 Description
 
 After completing these steps you will have...
