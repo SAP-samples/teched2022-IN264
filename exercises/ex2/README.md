@@ -33,14 +33,18 @@ Option 1: Create destination manually
 <br>![](/exercises/ex2/images/S4Destination3.png)
 
 Option 2: Import a destination
+
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
 
-2.	Click **Import Destination*.
-<br>![](/exercises/ex2/images/S4Destination2.png)
+2.	Click **Import Destination**.
+<br>![](/exercises/ex2/images/S4Destination4-1.png)
+
+3. 
 ## Exercise 2.2 Sub Exercise 2 Description
 
 After completing these steps you will have...
+
 
 1.	Enter this code.
 ```abap
