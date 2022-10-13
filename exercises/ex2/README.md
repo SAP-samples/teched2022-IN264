@@ -6,13 +6,27 @@ In this exercise, we will create...
 
 After completing these steps you will have created...
 
-1. in your subaccount, expand Connectivity and click **Destinations**.
+1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
 
 2.	Click **New Destination**.
 <br>![](/exercises/ex2/images/S4Destination2.png)
 
-3. Enter the information below:
+3. Enter the following details:
+    * __Name__: S4HANA
+    * __Type__: HTTP
+    * __URL__: http://s4hana1.tdc.sap.com:50081
+    * __Authentication__: BasicAuthentication
+    * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
+    * __User__: TC_SRV_USR;
+    * __Password__: Welcome123
+   
+ 4. Click **New Property** and add the following properties:
+    * __tc.enabled__: true
+    * __tc.provider_type__: S/4HANA
+    * __tc.ui.group__: SAP S/4HANA
+    * __tc.ui.label__: SAP S/4HANA Task
+    * __URL.queries.sap-client__: 400
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
