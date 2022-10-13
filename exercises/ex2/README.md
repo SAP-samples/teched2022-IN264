@@ -4,7 +4,7 @@ In this exercise, we will create...
 
 ## Exercise 2.1 Sub Exercise 1 Description
 
-After completing these steps you will have created...
+After completing these steps you will have create a destination in SAP BTP that is used 
 
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
@@ -21,14 +21,15 @@ After completing these steps you will have created...
     * __User__: TC_SRV_USR
     * __Password__: Welcome123
    
- 4. Click **New Property** and add the following properties:
+ 4. Under Additional Properties, click **New Property** and add the following properties one at a time:
     * __tc.enabled__: true
     * __tc.provider_type__: S/4HANA
     * __tc.ui.group__: SAP S/4HANA
     * __tc.ui.label__: SAP S/4HANA Task
     * __URL.queries.sap-client__: 400
     
-**HINT**: When typing properties names directly in the interface, the first character of the property will be added in uppercase. Type the properties names in notepad and past into the user interface instead of typing them directly.
+**HINT**: When typing properties names directly in the interface, the first character of the property will be added in uppercase. Type the properties names in Notepad and paste into the user interface instead.
+<br>![](/exercises/ex2/images/S4Destination3.png)
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
