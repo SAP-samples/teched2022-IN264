@@ -6,15 +6,13 @@ In this exercise, we will create...
 
 After completing these steps you will have created...
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+1. in your subaccount, expand Connectivity and click **Destinations**.
+<br>![](/exercises/ex2/images/S4Destination1.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+2.	Click **New Destination**.
+<br>![](/exercises/ex2/images/S4Destination2.png)
 
-
+3. Enter the information below:
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
