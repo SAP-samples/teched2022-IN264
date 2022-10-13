@@ -18,7 +18,7 @@ After completing these steps you will have created...
     * __URL__: http://s4hana1.tdc.sap.com:50081
     * __Authentication__: BasicAuthentication
     * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
-    * __User__: TC_SRV_USR;
+    * __User__: TC_SRV_USR
     * __Password__: Welcome123
    
  4. Click **New Property** and add the following properties:
@@ -27,6 +27,8 @@ After completing these steps you will have created...
     * __tc.ui.group__: SAP S/4HANA
     * __tc.ui.label__: SAP S/4HANA Task
     * __URL.queries.sap-client__: 400
+    
+**HINT**: When typing properties names directly in the interface, the first character of the property will be added in uppercase. Type the properties names in notepad and past into the user interface instead of typing them directly.
 
 ## Exercise 2.2 Sub Exercise 2 Description
 
