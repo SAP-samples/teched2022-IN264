@@ -32,7 +32,8 @@ The requirements to follow the exercises in this repository are knowledge about:
 ## Exercises
 
 - [Getting Started & check your hands-on environment ](exercises/ex0/)
-* TODO: @fabianleh responsible - @mar-hol makes Review
+
+*TODO: @fabianleh responsible - @mar-hol makes Review*
 
 - [Exercise 1 - Enable SAP Task Center](exercises/ex1/)
 * TODO: @fabianleh responsible - @mar-hol makes Review
@@ -41,19 +42,16 @@ The requirements to follow the exercises in this repository are knowledge about:
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1/README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Exercise 1.4 - Enable Single-Sign-On (SSO) for SAP Task Center](exercises/ex1/README.md#exercise-14-enable-single-sign-on-sso-for-sap-task-center)
     - [Summary](exercises/ex1/README.md#summary)
-- [Exercise 2 - Integrate SAP S/4HANA as task provider](exercises/ex2/README.md)
-* TODO: @hjudgesac responsible - @mar-hol makes Review
+- [Exercise 2 - Integrate SAP S/4HANA as task provider](exercises/ex2/README.md) *TODO: @hjudgesac responsible - @mar-hol makes Review*
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2/README.md#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check S/4HANA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
     - [Exercise 2.3 - Update UUID](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate SAP Process Automation as task provider](exercises/ex3/README.md)
-* TODO: @fabianleh responsible - @mar-hol makes Review
+*TODO: @fabianleh responsible - @mar-hol makes Review*
     - [Exercise 3.1 - Create SPA Destination](exercises/ex3/README.md#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Check SPA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
-- [Exercise 4 - Check the Workflow as Enduser](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) 
-* TODO: @mar-hol responsible -  makes Review
-- [Exercise 5 - Connect Mobile Start](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
-* TODO: @mar-hol responsible -  makes Review
+- [Exercise 4 - Check the Workflow as Enduser](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
+- [Exercise 5 - Connect Mobile Start](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 * TODO:@fabianleh responsible -  makes Review
 - [Troubleshooting](exercises/ex2/)
