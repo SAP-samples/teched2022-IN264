@@ -12,7 +12,12 @@ As part of our integration strategy, "One Workflow Inbox" is one of our suite qu
 
 ## Scenario
 
-//TODO describe scenario of this session (configure Task Center as BTP Admin and test scenario as business user)
+In this Hands-On we will integrate two "Task Providers":
+
+- SAP S/4HANA On Premise
+- SAP BTP Process Automation
+
+In addition we will make use and configure other BTP componetents for running this scenario End-to-End sucessfully.
 
 ![SAP BTP Solution Diagram - SAP Task Center](images/0_btp_taskcenter_teched_scenario.png)
 
