@@ -40,13 +40,16 @@ The requirements to follow the exercises in this repository are knowledge about:
 - [Exercise 3 - Integrate SAP Process Automation as task provider](exercises/ex3/README.md)
     - [Exercise 3.1 - Create SPA Destination](exercises/ex3/README.md#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Check SPA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
-- [Exercise 4 - Check the Workflow as](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)   
+- [Exercise 4 - Check the Workflow as Enduser](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)   
 - [Exercise 5 - Connect Mobile Start](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 - [Troubleshooting](exercises/ex2/)
 - [Additional ressources](exercises/ex2/)
 
-  
+## Further Resources
+
+
+
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
