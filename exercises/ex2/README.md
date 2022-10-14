@@ -1,6 +1,6 @@
 # Exercise 2 - Exercise 2 Description
 
-<a href="/exercises/ex2/S4HANA_Destination" download>Click to Download</a>
+<a href="https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/ex2/S4HANA_Destination.zip" download>Click to Download</a>
 In this exercise, we will create...
 
 ## Exercise 2.1 Create SAP S/4HANA Destination
