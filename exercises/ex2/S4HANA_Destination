@@ -1,0 +1,15 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Thu Oct 13 20:55:59 UTC 2022
+Type=HTTP
+tc.ui.label=SAP S/4HANA Task
+tc.ui.group=SAP S/4HANA
+tc.provider_type=S/4HANA
+URL.queries.sap-client=400
+Authentication=BasicAuthentication
+Name=S4HANA
+CloudConnectorLocationId=IN264-XX
+ProxyType=OnPremise
+URL=http\://s4hana1.tdc.sap.com\:50081
+User=TC_SRV_USR
+tc.enabled=true
