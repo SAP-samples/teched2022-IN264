@@ -1,7 +1,6 @@
 # Exercise 2 - Integrate SAP S/4HANA on-premise as a task provider
 
-<a href="https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/ex2/S4HANA_Destination.zip" download>Click to Download</a>
-In this exercise, we will create...
+In this exercise, we will go thorugh the steps to integrate Task Center with SAP S/4HANA on-premise.  You will create a destination in SAP Business Technology Platform (BTP) to the S/4 system and validate the connectivity from SAP Task Center to SAP S/4HANA.
 
 ## Exercise 2.1 Create SAP S/4HANA Destination
 
@@ -85,6 +84,6 @@ After completing these steps you will confirm that S/4 HANA on-premise connectiv
 
 ## Summary
 
-You've now ...
+You've now setup the destination configuration that needs to be donefor SAP Task Center in order to work with on-premise tasks from SAP S/4HANA on SAP BTP, Cloud Foundry environment.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
