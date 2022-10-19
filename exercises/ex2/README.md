@@ -70,7 +70,7 @@ After completing these steps you will confirm that S/4 HANA on-premise connectiv
 <br>![](/exercises/ex2/images/EX2.2-2.png)
 
 3. Enter the following credentials and click **Logon**:
-   * __Email or User Name_: &lt;add IN264-## where ## is your assigned student number&gt;
+   * __Email or User Name__: &lt;IN264-## where ## is your assigned student number&gt;
    * __Password__: Welcome123
  <br>![](/exercises/ex2/images/EX2.2-3.png)
  
