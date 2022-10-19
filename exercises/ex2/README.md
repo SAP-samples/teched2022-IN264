@@ -83,6 +83,24 @@ After completing these steps you will confirm that S/4 HANA on-premise connectiv
 <br>![](/exercises/ex2/images/EX2.2-6.png)
 
 ## Exercise 2.3 Update user UUID in SAP S/4HANA
+Add Intro....
+
+1. Navigate to IN264-Resources folder you downloaded earlier.  Open **CURL Commands** folder.
+<br>![](/exercises/ex2/images/EX2.3-2.png)
+
+2. Open **IN264-##.txt** where **##** is your assigned user number.
+<br>![](/exercises/ex2/images/EX2.3-3.png)
+
+3. Copy the entire CURL command from the text file.
+<br>![](/exercises/ex2/images/EX2.3-4.png)
+
+5. In Windows search, type **Powershell** and open the Windows PowerShell app.
+<br>![](/exercises/ex2/images/EX2.3-1.png)
+
+6. Paste the copied curl command into the Powershell app.
+<br>![](/exercises/ex2/images/EX2.3-5.png)
+
+7. 
 
 
 ## Summary
