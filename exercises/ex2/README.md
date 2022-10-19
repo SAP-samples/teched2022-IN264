@@ -61,10 +61,10 @@ Option 2: Import a pre-created destination (only complete if you skipped the opt
  
 ## Exercise 2.2 Check SAP S/4HANA connectivity via Task Center Admin app
 
-After completing these steps you will have...
+After completing these steps you will confirm that S/4 HANA on-premise connectivity is working from SAP Task Center.
 
+1.	In your subaccount, click **Instances and Subscriptions >> Launchpad Service**.
 
-1.	Enter this code.
 ```abap
 DATA(lt_params) = request->get_form_fields(  ).
 READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
