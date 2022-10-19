@@ -42,7 +42,7 @@ The requirements to follow the exercises in this repository are knowledge about:
     - [Exercise 1.3 - Integrate the SAP Task Center service into SAP BTP Launchpad ](exercises/ex1/README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
     - [Exercise 1.4 - Enable Single-Sign-On (SSO) for SAP Task Center](exercises/ex1/README.md#exercise-14-enable-single-sign-on-sso-for-sap-task-center)
     - [Summary](exercises/ex1/README.md#summary)
-- [Exercise 2 - Integrate SAP S/4HANA as task provider](exercises/ex2/README.md) *TODO: @hjudgesac responsible - @mar-hol makes Review*
+- [Exercise 2 - Integrate SAP S/4HANA on-premise as a task provider](exercises/ex2/README.md) *TODO: @hjudgesac responsible - @mar-hol makes Review*
     - [Exercise 2.1 - Create S4HOP Destination](exercises/ex2/README.md#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check S/4HANA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
     - [Exercise 2.3 - Update UUID](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
