@@ -45,7 +45,7 @@ The requirements to follow the exercises in this repository are knowledge about:
 - [Exercise 2 - Integrate SAP S/4HANA on-premise as a task provider](exercises/ex2/README.md) *TODO: @hjudgesac responsible - @mar-hol makes Review*
     - [Exercise 2.1 - Create SAP S/4HANA Destination](exercises/ex2/README.md#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check SAP S/4HANA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.3 - Update UUID](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - Update user UUID in SAP S/4HANA](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate SAP Process Automation as task provider](exercises/ex3/README.md)
 *TODO: @fabianleh responsible - @mar-hol makes Review*
     - [Exercise 3.1 - Create SPA Destination](exercises/ex3/README.md#exercise-31-sub-exercise-1-description)
