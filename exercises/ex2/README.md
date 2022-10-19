@@ -82,6 +82,9 @@ After completing these steps you will confirm that S/4 HANA on-premise connectiv
 6. Click S4HANA and confirm the status is **OK**.
 <br>![](/exercises/ex2/images/EX2.2-6.png)
 
+## Exercise 2.3 Update user UUID in SAP S/4HANA
+
+
 ## Summary
 
 You've now setup the destination configuration that needs to be donefor SAP Task Center in order to work with on-premise tasks from SAP S/4HANA on SAP BTP, Cloud Foundry environment.
