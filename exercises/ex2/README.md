@@ -64,20 +64,24 @@ Option 2: Import a pre-created destination (only complete if you skipped the opt
 After completing these steps you will confirm that S/4 HANA on-premise connectivity is working from SAP Task Center.
 
 1.	In your subaccount, click **Instances and Subscriptions >> Launchpad Service**.
+<br>![](/exercises/ex2/images/EX2.2-1.png)
 
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+2. If prompted, select **tdteched3.accounts.ondemand.com** as the Identity Provider.
+<br>![](/exercises/ex2/images/EX2.2-2.png)
 
-```
+3. Enter the following credentials and click **Logon**:
+   * __Email or User Name_: &lt;add IN264-## where ## is your assigned student number&gt;
+   * __Password__: Welcome123
+ <br>![](/exercises/ex2/images/EX2.2-3.png)
+ 
+4. Click **Go to site** icon on the site you created earlier.
+<br>![](/exercises/ex2/images/EX2.2-4.png)
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+5. Click **Task Center Administrator**.
+<br>![](/exercises/ex2/images/EX2.2-5.png)
+
+6. Click S4HANA and confirm the status is **OK**.
+<br>![](/exercises/ex2/images/EX2.2-6.png)
 
 ## Summary
 
