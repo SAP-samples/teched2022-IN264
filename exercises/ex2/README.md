@@ -39,7 +39,7 @@ Option 1: Create destination manually
  <br>![](/exercises/ex2/images/S4Destination5.png)
  
  
-Option 2: Import a pre-created destination (only completed if you skipped the option to create the destination manually)
+Option 2: Import a pre-created destination (only complete if you skipped the option to create the destination manually)
 
 1. In your subaccount, expand Connectivity and click **Destinations**.
 <br>![](/exercises/ex2/images/S4Destination1.png)
