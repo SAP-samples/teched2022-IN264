@@ -1,4 +1,4 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Integrate SAP S/4HANA on-premise system as task provider
 
 <a href="https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/ex2/S4HANA_Destination.zip" download>Click to Download</a>
 In this exercise, we will create...
