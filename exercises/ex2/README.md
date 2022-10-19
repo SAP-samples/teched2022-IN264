@@ -47,8 +47,10 @@ Option 2: Import a pre-created destination (only complete if you skipped the opt
 2.	Click **Import Destination**.
 <br>![](/exercises/ex2/images/S4Destination4-1.png)
 
-3. Select the provided destination file and click **Open**.
-4. Update the following properties for the imported destination:
+3. Navigate to IN264-Resources folder you downloaded earlier.  Select **S4HANA_Destination** file and click **Open**.
+<br>![](/exercises/ex2/images/SelectDestforImport.png)
+
+5. Update the following properties for the imported destination:
    * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
    * __Password__: Welcome123
 <br>![](/exercises/ex2/images/S4Destination4.png)
