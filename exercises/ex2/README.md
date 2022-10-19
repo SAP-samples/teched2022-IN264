@@ -88,19 +88,19 @@ Add Intro....
 1. Navigate to IN264-Resources folder you downloaded earlier.  Open **CURL Commands** folder.
 <br>![](/exercises/ex2/images/EX2.3-2.png)
 
-2. Open **IN264-##.txt** where **##** is your assigned user number.
+2. Open **IN264-##.txt** where **##** is your assigned user number and copy the entire CURL command.
 <br>![](/exercises/ex2/images/EX2.3-3.png)
 
-3. Copy the entire CURL command from the text file.
-<br>![](/exercises/ex2/images/EX2.3-4.png)
-
-5. In Windows search, type **Powershell** and open the Windows PowerShell app.
+3. In Windows search, type **Powershell** and open the Windows PowerShell app.
 <br>![](/exercises/ex2/images/EX2.3-1.png)
 
-6. Paste the copied curl command into the Powershell app.
-<br>![](/exercises/ex2/images/EX2.3-5.png)
+6. Paste the copied curl command into the Powershell app and hit **Enter** key on your keyboard.
 
-7. 
+NOTE: CURL command in each text file is unique to the respective participant so confirm that you are executing the comamnd for your own user.  The UUID shown in the    CURL command is User UUID that comes from the user profile in SAP Cloud Identity Authentication Service(IAS).
+<br>![](/exercises/ex2/images/EX2.3-4.png)
+
+7. Confirm the CURL command is executed succesfully.  The output at the end should look similar to the screenshot.
+<br>![](/exercises/ex2/images/EX2.3-5.png)
 
 
 ## Summary
