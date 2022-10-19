@@ -59,7 +59,7 @@ Option 2: Import a pre-created destination (only complete if you skipped the opt
  <br>![](/exercises/ex2/images/S4Destination5.png)
  
  
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 Check SAP S/4HANA connectivity via Task Center Admin app
 
 After completing these steps you will have...
 
