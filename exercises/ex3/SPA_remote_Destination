@@ -1,0 +1,20 @@
+#clientKey=<< Existing password/certificate removed on export >>
+#tokenServicePassword=<< Existing password/certificate removed on export >>
+#
+#Wed Oct 19 10:08:04 UTC 2022
+tc.ui.group=SAP Process Automation
+tc.ui.label=SAP Process Automation Task
+Name=SPA_rem
+userIdSource=user_uuid
+URL=https\://spa-api-gateway-bpi-eu-prod.cfapps.eu10.hana.ondemand.com/internal/workflow/rest/v1
+audience=https\://teched-spa-tc-eu10-mthzww43.authentication.eu10.hana.ondemand.com
+Type=HTTP
+tc.enabled=true
+tc.provider_type=SPA
+ProxyType=Internet
+tokenServiceURL=https\://teched-spa-tc-eu10-mthzww43.authentication.eu10.hana.ondemand.com/oauth/token/alias/teched-spa-tc-eu10-mthzww43.aws-live-eu10
+tokenServiceUser=sb-9be2997d-a9b2-4a73-83d9-b1ac80a3528f\!b152845|xsuaa\!b120249
+authnContextClassRef=urn\:oasis\:names\:tc\:SAML\:2.0\:ac\:classes\:PreviousSession
+Authentication=OAuth2SAMLBearerAssertion
+nameIdFormat=urn\:oasis\:names\:tc\:SAML\:1.1\:nameid-format\:emailAddress
+tokenServiceURLType=Dedicated
