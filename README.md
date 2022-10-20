@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session "IN264 - E
 
 ## Overview
 
-![SAP BTP Solution Diagram - SAP Task Center](images/taskcenter_scenario_btp_solution_diagram.png)
+In this Hands-On we will guide you to setting a End-To-End scenario with SAP Task Center and connecting different task providers.
 
 ## Scenario
 
