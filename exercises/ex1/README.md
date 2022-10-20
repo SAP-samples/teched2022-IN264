@@ -1,14 +1,13 @@
 # Exercise 1 - Enable SAP Task Center
 
-In this exercise, we will execute the BTP Booster (Excercise 1.1.)to setup SAP Task Center service on your subaccount to enable SAP Task Center.
-Alternative you can also following the steps for the manual setup.
-After SAP Task Center is enabled in your BTP subaccount we will no configure the BTP Launchpad service to integrate the SAP Task Center apps.
+In this exercise, you will manually setup SAP Task Center service on your subaccount to enable SAP Task Center.  It's also possible to execute a BTP booster to setup SAP Task Center, but we will not do that for this hands-on.  Steps to setup SAP Task Center using a booster are mentioned in EX 1.2 for your reference only.  
+After SAP Task Center is enabled in your BTP subaccount we will configure the BTP Launchpad service to integrate the SAP Task Center apps.
 Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces to SAP Task Center web application without using basic authentication.
 
 Content in this Excercise:
 
-- [Run the BTP Booster for setting up SAP Task Center](README.md#exercise-11-execute-the-sap-task-center-booster)
 - [Enable SAP Task Center manually](README.md#exercise-12-enable-sap-task-center-manually)
+- [Run the BTP Booster for setting up SAP Task Center](README.md#exercise-11-execute-the-sap-task-center-booster)
 - [Integrate the SAP Task Center service into SAP BTP Launchpad](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
 - [Enable Single-Sign-On (SSO) for SAP Task Center](README.md#exercise-14-enable-single-sign-on-sso-for-sap-task-center)
 - [Summary](README.md#summary)
@@ -98,9 +97,9 @@ The last step for this excecise is now to create a new destination to integrate 
 
 *TODO add creation and assignment for TC role collection
 
-## Exercise 1.2 execute the SAP Task Center Booster
+## Exercise 1.2 execute the SAP Task Center Booster (for your reference only - skip this exercise and proceed Exercise 1.3)
 
-*TODO Give instruction that this is not valid for TechEd but maybe in case you run it in your landscape*
+It's possible to setup SAP Task Center using a Booster, but this requires admin access to the Global Account.  This access is not available to the participants in the Teched systems so the steps below are for your reference only and can only executed in your own system where you have Global Admin priviliges.
 
 1. To run the BTP Booster for SAP Task Center , choose from the left hand navigation (ensure that you are on the BTP Glob Account level and not inside the BTP subaccount) the **Booster** entry:
 
