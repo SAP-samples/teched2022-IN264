@@ -13,7 +13,7 @@ This repository contains the material for the SAP TechEd 2022 session "IN264 - E
 In this Hands-On we will integrate two "Task Providers":
 
 - SAP S/4HANA On Premise
-- SAP BTP Process Automation
+- SAP Process Automation
 
 In addition we will make use and configure other BTP componetents for running this scenario End-to-End sucessfully.
 
