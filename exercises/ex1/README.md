@@ -6,8 +6,8 @@ Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get acces 
 
 Content in this Excercise:
 
-- [Enable SAP Task Center manually](README.md#exercise-12-enable-sap-task-center-manually)
-- [Run the BTP Booster for setting up SAP Task Center](README.md#exercise-11-execute-the-sap-task-center-booster)
+- [Enable SAP Task Center manually](README.md#exercise-11-enable-sap-task-center-manually)
+- [Run the BTP Booster for setting up SAP Task Center](README.md#exercise-12-execute-the-sap-task-center-booster)
 - [Integrate the SAP Task Center service into SAP BTP Launchpad](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad)
 - [Enable Single-Sign-On (SSO) for SAP Task Center](README.md#exercise-14-enable-single-sign-on-sso-for-sap-task-center)
 - [Summary](README.md#summary)
