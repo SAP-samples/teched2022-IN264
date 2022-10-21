@@ -69,8 +69,6 @@ After completing these steps you will confirm that SAP Process Automation connec
 
 To validate that we can also hace SAP Process Automation tasks availble for SAP Task Center please execut the follwing API via Postman:
 
-https://github.com/SAP-samples/teched2022-IN264/blob/main/exercises/ex2/README.md#exercise-23-update-user-uuid-in-sap-s4hana
-
 2. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)
 
