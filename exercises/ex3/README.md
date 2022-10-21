@@ -40,3 +40,5 @@ Navigate in your BTP subaccount to **Destinations** and create a new one by choo
 ![](/exercises/ex3/images/destination.png)
 
 Extract now the [archive](/exercises/ex3/SPA_remote_Destination.zip) and import the destination.
+
+Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app
