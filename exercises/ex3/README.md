@@ -69,12 +69,12 @@ After completing these steps you will confirm that SAP Process Automation connec
 
 To validate that we can also hace SAP Process Automation tasks availble for SAP Task Center please execut the follwing API via Postman:
 
-2. Search and Select the API request **IN264 start prc**:
+1. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)
 
-3. **IMPORTANT** update the **global_user_id** value with **UUID** for your SAP Task Center user.
+2. **IMPORTANT** update the **global_user_id** value with **UUID** for your SAP Task Center user.
 
-4. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
+3. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
 <br>![](/exercises/ex3/images/201.png)
 
 ## Summary
