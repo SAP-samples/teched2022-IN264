@@ -58,3 +58,26 @@ After completing these steps you will confirm that SAP Process Automation connec
  
 4. Click **Go to site** icon on the site you created earlier.
 <br>![](/exercises/ex3/images/execute_lp_site.png)
+
+5. Click **Task Center Administrator**.
+<br>![](/exercises/ex3/images/admin_app.png)
+
+6. Click S4HANA and confirm the status is **OK**.
+<br>![](/exercises/ex3/images/spa_admin_app_success.png)
+
+## Exercise 3.2 - SAP Process Automation start process
+
+To validate that we can also hace SAP Process Automation tasks availble for SAP Task Center please execut the follwing API via Postman:
+
+https://github.com/SAP-samples/teched2022-IN264/blob/main/exercises/ex2/README.md#exercise-23-update-user-uuid-in-sap-s4hana
+
+2. Search and Select the API request **IN264 start prc**:
+<br>![](/exercises/ex3/images/postman.png)
+
+3. **IMPORTANT** update the **global_user_id** value with **UUID** for your SAP Task Center user.
+
+4. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
+<br>![](/exercises/ex3/images/201.png)
+
+## Summary
+
