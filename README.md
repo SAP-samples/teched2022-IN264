@@ -46,8 +46,8 @@ The requirements to follow the exercises in this repository are knowledge about:
     - [Exercise 2.3 - Update user UUID in SAP S/4HANA](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate SAP Process Automation as task provider](exercises/ex3/README.md)
 *TODO: @fabianleh responsible - @mar-hol makes Review*
-    - [Exercise 3.1 - Create SAP Process Automation Destination](exercises/ex3/README.md#exercise-31-sub-exercise-1-description)
-    - [Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
+    - [Exercise 3.1 - Create SAP Process Automation Destination](exercises/ex3/README.md#exercise-31-create-the-destination-to-the-sap-process-automation-instance-from-a-remote-subaccount)
+    - [Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32-sub-exercise-2-description)
 - [Exercise 4 - Check the Workflow as Enduser](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Exercise 5 - Connect Mobile Start](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
