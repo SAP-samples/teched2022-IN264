@@ -42,3 +42,19 @@ Navigate in your BTP subaccount to **Destinations** and create a new one by choo
 Extract now the [archive](/exercises/ex3/SPA_remote_Destination.zip) and import the destination.
 
 ## Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app
+
+After completing these steps you will confirm that SAP Process Automation connectivity is working from SAP Task Center.
+
+1.	In your subaccount, click **Instances and Subscriptions >> Launchpad Service**.
+<br>![](/exercises/ex3/images/lp_subscr.png)
+
+2. If prompted, select **tdteched3.accounts.ondemand.com** as the Identity Provider.
+<br>![](/exercises/ex3/images/auth_custom_ias.png)
+
+3. Enter the following credentials and click **Logon**:
+   * __Email or User Name__: &lt;IN264-## where ## is your assigned student number&gt;
+   * __Password__: Welcome123
+ <br>![](/exercises/ex3/images/logon.png)
+ 
+4. Click **Go to site** icon on the site you created earlier.
+<br>![](/exercises/ex3/images/execute_lp_site.png)
