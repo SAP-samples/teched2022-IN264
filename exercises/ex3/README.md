@@ -79,3 +79,5 @@ To validate that we can also hace SAP Process Automation tasks availble for SAP 
 
 ## Summary
 
+You've now setup the destination configuration that needs to be done for SAP Task Center in order to work with SAP Process Automation tasks.
+But have also a look the current [restrictions](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/9c5114089f8445eea223a19604f79b5c.html?locale=en-US) for SAP Process Automation integration with SAP Task Center
