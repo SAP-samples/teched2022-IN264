@@ -4,7 +4,7 @@ In this exercise, we will integrate SAP Process Automation as additional task pr
 
 ## Exercise 3.1 create the destination to the SAP Process Automation instance from a remote subaccount
 
-### (Option a) Manual createion
+### (Option a) Manual process
 1. Navigate in your BTP subaccount to **Destinations**
 
 2. Creat a new one by choosing **New Destination**
@@ -34,7 +34,7 @@ In this exercise, we will integrate SAP Process Automation as additional task pr
     * __URL.queries.sap-client__: 400
     * __userIdSource__: user_uuid
 
-### (Option a) Using the provided archive/destination createion
+### (Option a) Import the provided destination
 Navigate in your BTP subaccount to **Destinations** and create a new one by choosing the **Import Destination** button:
 
 ![](/exercises/ex3/images/destination.png)
@@ -72,7 +72,7 @@ To validate that we can also hace SAP Process Automation tasks availble for SAP 
 1. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)
 
-2. **IMPORTANT** update the **global_user_id** value with **UUID** for your SAP Task Center user.
+2. **IMPORTANT** update the **global_user_id** value with the value of the **UUID** for your SAP Task Center user.
 
 3. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
 <br>![](/exercises/ex3/images/201.png)
