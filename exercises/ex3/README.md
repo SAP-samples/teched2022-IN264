@@ -72,7 +72,7 @@ To validate that we can also hace SAP Process Automation tasks availble for SAP 
 1. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)
 
-2. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user.
+2. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user .
 
 3. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
 <br>![](/exercises/ex3/images/201.png)
