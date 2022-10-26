@@ -67,7 +67,7 @@ After completing these steps you will confirm that SAP Process Automation connec
 
 ## Exercise 3.2 - Execute the API request to start a SAP Process Automation process
 
-To validate that we can also hace SAP Process Automation tasks availble for SAP Task Center please execut the follwing API via Postman:
+To validate that we can also have SAP Process Automation tasks available for SAP Task Center please execute the following API via Postman:
 
 1. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)

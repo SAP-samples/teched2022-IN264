@@ -47,8 +47,8 @@ In order to follow the exercises in this reporsitory, you should have knowledge 
     - [Exercise 3.1 - Create SAP Process Automation Destination](exercises/ex3/README.md#exercise-31-create-the-destination-to-the-sap-process-automation-instance-from-a-remote-subaccount)
     - [Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32---check-sap-process-automation-connectivity-via-task-center-admin-app)
     - [Exercise 3.3 - Execute the API request to start a SAP Process Automation process](exercises/ex3/README.md#exercise-32---execute-the-api-request-to-start-a-sap-process-automation-process)
-- [Exercise 4 - Check the Workflow as Enduser](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
-- [Exercise 5 - Connect Mobile Start](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
+- [Exercise 4 - Check the Workflow as business user (task approver) 👩‍💼](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
+- [Exercise 5 - Connect Mobile Start 📱](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 * TODO:@fabianleh responsible -  makes Review
 - [Troubleshooting](exercises/ex2/)

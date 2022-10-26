@@ -1,6 +1,6 @@
 # Exercise 2 - Integrate SAP S/4HANA on-premise as a task provider
 
-In this exercise, we will go thorugh the steps to integrate Task Center with SAP S/4HANA on-premise.  You will create a destination in SAP Business Technology Platform (BTP) to the S/4 system, validate the connectivity from SAP Task Center to S/4, and update the UUID field for your S/4 user .
+In this exercise, we will go through the steps to integrate Task Center with SAP S/4HANA on-premise.  You will create a destination in SAP Business Technology Platform (BTP) to the S/4 system, validate the connectivity from SAP Task Center to S/4HANA, and update the UUID field for your S/4 user .
 
 ## Exercise 2.1 Create SAP S/4HANA Destination
 
@@ -79,7 +79,7 @@ After completing these steps you will confirm that S/4 HANA on-premise connectiv
 5. Click **Task Center Administrator**.
 <br>![](/exercises/ex2/images/EX2.2-5.png)
 
-6. Click S4HANA and confirm the status is **OK**.
+6. Click S/4HANA and confirm the status is **OK**.
 <br>![](/exercises/ex2/images/EX2.2-6.png)
 
 ## Exercise 2.3 Update user UUID in SAP S/4HANA
@@ -104,14 +104,14 @@ In this exercise we will use SAP Cloud Identity Provisioning proxy system to upd
 
 6. Paste the copied curl command into the Powershell app and hit **Enter** key on your keyboard.
 
-NOTE: CURL command in the text file is unique to each participant so confirm that you are executing the comamnd for your own user.  The UUID shown in the CURL command is User UUID that comes from the user profile in SAP Cloud Identity Authentication Service(IAS).
+NOTE: CURL command in the text file is unique to each participant so confirm that you are executing the command for your own user.  The UUID shown in the CURL command is User UUID that comes from the user profile in SAP Cloud Identity Authentication Service(IAS).
 <br>![](/exercises/ex2/images/EX2.3-4.png)
 
-7. Confirm the CURL command is executed succesfully.  The output at the end should look similar to the screenshot.
+7. Confirm the CURL command is executed successfully.  The output at the end should look similar to the screenshot.
 <br>![](/exercises/ex2/images/EX2.3-5.png)
 
 ## Summary
 
 You've now setup the destination configuration that needs to be done for SAP Task Center in order to work with on-premise tasks from SAP S/4HANA on SAP BTP, Cloud Foundry environment.  In addition, you've updated the S/4HANA user properties with the universal unique identifier (user UUID) of SAP Cloud Identity Services - Identity Authentication.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Integrate SAP Process Automation as task provider  ](../ex3/README.md)
