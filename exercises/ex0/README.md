@@ -39,7 +39,7 @@ System / user details:
 
 [IN264_Resources](https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/IN264-Resources.zip)
 
-8. 
+8. A file should be downloaded to your downloads folder.  Access Windows downloads folder, 
 
 > ⚠ In case something is missing in your subaccount set up, please reach out to your session instructors 👩‍🏫.
 
