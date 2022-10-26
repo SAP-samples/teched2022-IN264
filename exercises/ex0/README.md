@@ -31,7 +31,7 @@ System / user details:
 
 ![](/exercises/ex0/images/cf_check.png)
 
-6. Click **Instance and Subscriptions** and confirm that you have subscription to the **Launchpad Service**.
+6. Click **Services >> Instance and Subscriptions** and confirm that you have subscription to the **Launchpad Service**.
 
 ![](/exercises/ex0/images/lp_check.png)
 
