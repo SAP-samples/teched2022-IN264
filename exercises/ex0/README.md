@@ -39,10 +39,20 @@ System / user details:
 
 [IN264_Resources](https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/IN264-Resources.zip)
 
-8. A file should be downloaded to your downloads folder.  Access Windows downloads folder, 
+8. Confirm that **IN264-Resources.zip** file is in the downloads folder.
+
+![](/exercises/ex0/images/Ex0-2.png)
+
+9. Right click on **INS264-Resources.zip** and choose the **Extract All...** option from the context menu.
+![](/exercises/ex0/images/Ex0-3.png)
+
+10. Exract the file under the Windows downloads folder.
+![](/exercises/ex0/images/Ex0-4.png)
+
+11. Access the IN264-Resources folder and confirm that you see the files and folders shown in the screenshot.  You will need this content for later exercises.
+![](/exercises/ex0/images/Ex0-5.png)
 
 > ⚠ In case something is missing in your subaccount set up, please reach out to your session instructors 👩‍🏫.
-
 ## Summary
 
 🎉Congratulations with this first exercise you have successfully validated access to your subaccount and required setup of your BTP subaccount:
