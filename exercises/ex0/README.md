@@ -8,7 +8,7 @@ System / user details:
 
 | Assigned subaccount|Platform user 👷‍♂️(BTP Admin)/Password|Business User 👩‍💼(Task Approver)/Password|
 | ------------- |-------------| -----|
-| IN264-xx| IN264-xx-P/Welcome123| IN264-xx/Welcome123|
+| IN264-XX| IN264-XX-P/Welcome123| IN264-XX/Welcome123|
 
 **xx = assigned participant number from the speaker team**
 
