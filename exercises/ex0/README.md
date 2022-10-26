@@ -12,9 +12,14 @@ System / user details:
 
 **XX = assigned participant number from the speaker team**
 
-Please enter the SAP BTP Cockpit URL using the **Platform** user:
+1. Access SAP BTP Cockpit URL using the URL below:
 
 [SAP BTP Cockpit](https://cockpit.eu10.hana.ondemand.com/cockpit/?idp=tdcteched3.accounts.ondemand.com#/globalaccount/62d9c33d-1b44-4afa-9751-2cb0165ba817)
+
+2. Login using the platform user credentials.
+
+![](/exercises/ex0/images/Ex0-1.png)
+
 
 Login with the BTP platform credentials (Platform User) for the pre-created BTP subaccount. Access the respective subaccount (name: IN264-xx)
 ![](/exercises/ex0/images/btp_ga_view.png)
