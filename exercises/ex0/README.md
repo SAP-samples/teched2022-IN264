@@ -10,7 +10,7 @@ System / user details:
 | ------------- |-------------| -----|
 | IN264-XX| IN264-XX-P/Welcome123| IN264-XX/Welcome123|
 
-**xx = assigned participant number from the speaker team**
+**XX = assigned participant number from the speaker team**
 
 Please enter the SAP BTP Cockpit URL using the **Platform** user:
 
