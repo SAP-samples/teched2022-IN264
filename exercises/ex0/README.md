@@ -35,6 +35,9 @@ System / user details:
 
 ![](/exercises/ex0/images/lp_check.png)
 
+7.  Click on the link below to download a zip file containing addition resources that you will need for later exercises.
+[IN264_Resources](https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/IN264-Resources.zip)
+
 > ⚠ In case something is missing in your subaccount set up, please reach out to your session instructors 👩‍🏫.
 
 ## Summary
