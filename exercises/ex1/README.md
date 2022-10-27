@@ -1,8 +1,9 @@
 # Exercise 1 - Enable SAP Task Center
 
-In this exercise, you will manually setup SAP Task Center service on your subaccount to enable SAP Task Center.  It's also possible to execute a BTP booster to setup SAP Task Center, but we will not do that for this hands-on.  Steps to setup SAP Task Center using a booster are mentioned in EX 1.2 for your reference only.  
+In this exercise, you will manually setup SAP Task Center service on your subaccount to enable SAP Task Center.  
+> ℹ It is also possible to execute a booster in SAP BTP cockpit to setup SAP Task Center, but this procedure is not in the scope of this hands-on.  For your reference, steps to setup SAP Task Center using a booster can be found [here](#exercise-12-execute-the-sap-task-center-booster-for-your-reference-only---skip-this-exercise-and-proceed-exercise-13).  
 After SAP Task Center is enabled in your BTP subaccount we will configure the BTP Launchpad service to integrate the SAP Task Center apps.
-Finally we will configure "Single-Sign-On" (SSO) for the "Enduser" to get access to SAP Task Center web application without using basic authentication.
+Finally we will configure "Single-Sign-On" (SSO) for the "end user" to get access to SAP Task Center web application without need of using basic authentication.
 
 Content in this Exercise:
 
@@ -27,6 +28,9 @@ Please perform the following steps for the validation:
 2. Search now for "Task Center" to ensure the service is entitled for the subaccount:
 <br>![](/exercises/ex1/images/manual_check_stc_entitlem.png)
 
+
+*//TODO LP and CF should already been enabled. So no need to check this*
+
 3. Additional search for "Launchpad" to validate also that this service is entitled for the subaccount.
 <br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
@@ -40,7 +44,7 @@ Create a **Space**:
 
 After all prerequisites are met, we can now start to setup SAP Task Center.
 Switch now to **Instances and Subscriptions**  to get started and press **create**:
-In the upcomming screen we need now to create:
+In the upcoming screen we need now to create:
 
 <br>![](/exercises/ex1/images/start_create_sub_and_instances.png)
 
@@ -93,28 +97,28 @@ The last step for this exercise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
 
-**Congratulations** you've now completed all necccessary steps for the initial setup of SAP Task Center. In the next [excercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
+**Congratulations** you've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
 *TODO add creation and assignment for TC role collection
 
-## Exercise 1.2 execute the SAP Task Center Booster (for your reference only - skip this exercise and proceed Exercise 1.3)
+## Exercise 1.2 execute the SAP Task Center Booster (*for your reference only - skip this exercise and proceed Exercise 1.3*)
 
-It's possible to setup SAP Task Center using a Booster, but this requires admin access to the Global Account.  This access is not available to the participants in the Teched systems so the steps below are for your reference only and can only executed in your own system where you have Global Admin priviliges.
+> ⚠ For TechEd session IN264 please skip this exercise and proceed with [Exercise 1.3 Integrate the SAP Task Center service into SAP BTP Launchpad](#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) It's possible to setup SAP Task Center using a Booster, but this requires admin access to the Global Account.  This access is not available to the participants in the TechEd systems so the steps below are for your reference only and can only executed in your own system environment where you might have SAP BTP Global Account Admin privileges.
 
 1. To run the BTP Booster for SAP Task Center , choose from the left hand navigation (ensure that you are on the BTP Glob Account level and not inside the BTP subaccount) the **Booster** entry:
 
     <br>![](/exercises/ex1/images/booster01.png)
 
-2. Search now by typing **"Task Center"** for the BTP Booster an presse the **Start** button on the tile:
+2. Search now by typing **"Task Center"** for the BTP Booster an press the **Start** button on the tile:
 
     <br>![](/exercises/ex1/images/booster02.png)
 
-    In the upcomming windo you should now get the resut from the prerequsite check, this must be passed (if not pls.inform the TechEd session team):
+    In the upcoming window you should now get the result from the prerequisite check, this must be passed (if not please inform the TechEd session team):
 
     <br>![](/exercises/ex1/images/booster03.png)
 
 3. Press now the **Next** button from bottom right corner to move to the next phase of the BTP Booster.
-  In this step validate yourself with the used and entitled services (Lauchpad and Task center), select the BTP subaccount and press the **Next** button.
+  In this step validate yourself with the used and entitled services (Launchpad and Task center), select the BTP subaccount and press the **Next** button.
   The SAP Task Center setup will be executed in this subaccount! 
   
   **Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
@@ -124,7 +128,7 @@ It's possible to setup SAP Task Center using a Booster, but this requires admin 
 
     <br>![](/exercises/ex1/images/booster05.png)
 
-    In the upcoming screen you should now see the execution of the diffent actions and the status:
+    In the upcoming screen you should now see the execution of the different actions and the status:
 
     <br>![](/exercises/ex1/images/booster06.png)
 
@@ -138,7 +142,7 @@ Pleas click on the first link to enter your subaccount.
 
 **Congratulations** with the successful execution of this exercise we can now go further with the SAP Tas Center by setting up the Launchpad service to access the SAP Task Center application.
 
-## Exercise 1.3 integrate the SAP Task Center service into SAP BTP Launchpad
+## Exercise 1.3 Integrate the SAP Task Center service into SAP BTP Launchpad
 
 In the upcoming exercise we will add the SAP Task Center apps to your BTP Launchpad, you can find [here](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a499676e7ae4282af84092f778e3737.html#procedure) also the official SAP Help documentation for more details. 
 
