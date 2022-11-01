@@ -85,13 +85,11 @@ The last step for this exercise is now to create a new destination to integrate 
   <br>![](/exercises/ex1/images/assign_roles.png)
 
 
-4. Finally assign this new **Role Collection** to the **Platform User**, switch to **Users**, select the user:
+4. Finally assign this new **Role Collection** to your **Platform User**, switch to **Users**, select the user and assign the new **Role Collection**:
 
   <br>![](/exercises/ex1/images/assign_rc.png)
 
 **Congratulations** (!) You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
-
-*TODO add creation and assignment for TC role collection
 
 ## Exercise 1.2 execute the SAP Task Center Booster (*for your reference only - skip this exercise and proceed Exercise 1.3*)
 
