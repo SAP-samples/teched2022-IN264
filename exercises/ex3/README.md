@@ -1,13 +1,13 @@
 # Exercise 3 - Integrate SAP SAP Process Automation as task provider
 
-In this exercise, we will integrate SAP Process Automation as additional task provider to provide you also the idea to implement a "central inbox accross SAP solutions.
+In this exercise, we will integrate SAP Process Automation as additional task provider to provide you also the idea to implement a "central inbox across SAP solutions.
 
 ## Exercise 3.1 create the destination to the SAP Process Automation instance from a remote subaccount
 
 ### (Option a) Manual process
 1. Navigate in your BTP subaccount to **Destinations**
 
-2. Creat a new one by choosing **New Destination**
+2. Create a new one by choosing **New Destination**
 
 ![](/exercises/ex3/images/new_dest.png)
 

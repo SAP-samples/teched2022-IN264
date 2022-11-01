@@ -32,7 +32,7 @@ Please perform the following steps to validate the required entitlements:
 
 After all prerequisites are met, we can now start to setup SAP Task Center.
 
-**[Info]** The enablement of CloudFoundry was already executed
+> ℹ The enablement of CloudFoundry was already performed before.
 
 Switch now to **Instances and Subscriptions**  to get started (you will identify **SAP Launchpad Service** is already subscribed) press now **create** button:
 
@@ -89,21 +89,21 @@ The last step for this exercise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/assign_rc.png)
 
-**Congratulations** (!) You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
+**Congratulations**! You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
 ## Exercise 1.2 execute the SAP Task Center Booster (*for your reference only - skip this exercise and proceed Exercise 1.3*)
 
-> ⚠ For TechEd session IN264 please skip this exercise and proceed with [Exercise 1.3 Integrate the SAP Task Center service into SAP BTP Launchpad](#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) It's possible to setup SAP Task Center using a Booster, but this requires admin access to the Global Account.  This access is not available to the participants in the TechEd systems so the steps below are for your reference only and can only executed in your own system environment where you might have SAP BTP Global Account Admin privileges.
+> ⚠ For TechEd session IN264 please skip this exercise and proceed with [Exercise 1.3 Integrate the SAP Task Center service into SAP BTP Launchpad](#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) It's possible to setup SAP Task Center using a Booster, but this requires admin access to the Global Account.  This access is not available to the participants in the TechEd systems so the steps below are for your reference only and can only be executed in your own system environment where you might have SAP BTP Global Account Admin privileges.
 
-1. To run the BTP Booster for SAP Task Center , choose from the left hand navigation (ensure that you are on the BTP Glob Account level and not inside the BTP subaccount) the **Booster** entry:
+1. To run the BTP Booster for SAP Task Center , choose from the left hand navigation (ensure that you are on the BTP Global Account level and not inside the BTP subaccount) the **Booster** entry:
 
     <br>![](/exercises/ex1/images/booster01.png)
 
-2. Search now by typing **"Task Center"** for the BTP Booster an press the **Start** button on the tile:
+2. Search now by typing **"Task Center"** for the BTP Booster and press the **Start** button on the tile:
 
     <br>![](/exercises/ex1/images/booster02.png)
 
-    In the upcoming window you should now get the result from the prerequisite check, this must be passed (if not please inform the TechEd session team):
+    In the upcoming window, you should now get the result from the prerequisite check, this must be passed (if not please inform the TechEd session team):
 
     <br>![](/exercises/ex1/images/booster03.png)
 
@@ -111,10 +111,9 @@ The last step for this exercise is now to create a new destination to integrate 
   In this step validate yourself with the used and entitled services (Launchpad and Task center), select the BTP subaccount and press the **Next** button.
   The SAP Task Center setup will be executed in this subaccount! 
   
-  **Important: Pleas use here only the subaccount which you have access to, otherwise other participants get an error to run this SAP TechEd Hands-on which should be avoided**
   <br>![](/exercises/ex1/images/booster04.png)
 
-4. In the last step check again the subaccount and start the execution by finally press **Finish**.
+4. In the last step check again the subaccount and start the execution by finally pressing **Finish**.
 
     <br>![](/exercises/ex1/images/booster05.png)
 
@@ -130,7 +129,7 @@ Pleas click on the first link to enter your subaccount.
 
 <br>![](/exercises/ex1/images/destinations_overview.png)
 
-**Congratulations** with the successful execution of this exercise we can now go further with the SAP Tas Center by setting up the Launchpad service to access the SAP Task Center application.
+**Congratulations**! With the successful execution of this exercise we can now go further with the SAP Task Center integration by setting up the Launchpad service to access the SAP Task Center application.
 
 ## Exercise 1.3 Integrate the SAP Task Center service into SAP BTP Launchpad
 
@@ -144,7 +143,7 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_refresh.png)
 
-   The status should be changed to "updating":
+   The status should be changed to "updating" and then finally "updated":
 
     <br>![](/exercises/ex1/images/lp_site_manager_channel_manager_updating.png)
 
@@ -160,33 +159,33 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     As result you should now see to entries/apps:
 
-    1. Task Center
-    2. Task Center Administration
+    - Task Center
+    - Task Center Administration
 
     <br>![](/exercises/ex1/images/lp_site_manager_content_manager_stc-apps.png)
 
-5. Select now all entries an press the **Add to My Content** button. 
-   If you now select the the first tab to validate the result, you should now identify the Task Center apps are added to the items list:
+5. Select now all entries and press the **Add to My Content** button. 
+   If you now select the first tab to validate the result, you should now identify the Task Center apps are added to the items list:
 
     <br>![](/exercises/ex1/images/lp_site_manager_my_content.png)
 
 6. The last step is now to create a group and the apps to the pre-defined "Everyone" role ([SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html)).
 
-7. To enable the visibility of the SAP Task Center apps in the BTP Launchpad we need to create in the "Content Manager an new "Group".
+7. To enable the visibility of the SAP Task Center apps in the BTP Launchpad we need to create in the **Content Manager** an new **Group**.
    You can add new content by clicking the **+ New** button afterwards select **Group**:
 
     <br>![](/exercises/ex1/images/lp_site_manager_create_group.png)
 
-   Provide a name and a description and click (**Important**) in input field in the upper right corner, you will otherwise not see the apps. Finally press for each app the **+** button and save your changes:
+   Provide a title, description and click (**Important**) in input field in the upper right corner, you will otherwise not see the apps. Finally press for each app the **+** button and save your changes:
 
     <br>![](/exercises/ex1/images/lp_site_manager_group_add_apps.png)
 
-8. Assign now the SAP Task Center apps to "everyone" role, if u want to create a own "custom" role have a look in the [official SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html) to follow the required steps.
+8. Assign now the SAP Task Center apps to "everyone" role, if u want to create an own "custom" role have a look in the [official SAP Help documentation](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/baeaf6ee364e48ac95dc09470281f174.html) to follow the required steps.
 
     <br>![](/exercises/ex1/images/lp_site_manager_role_add_apps.png)
 
-9. The almost last step is now to create launchpad site by creating an new "site" in the "Site Manager".
-    Please navigate for this in the "Site Directory": 
+9. The last step is now to create launchpad site by creating a new **site** in the **Site Manager**.
+    Please navigate to the **Site Directory** in order to do this: 
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_directory.png)
 
@@ -194,7 +193,7 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_directory_new_site.png)
 
-11. Afterwards you are able to see all settings for your newly created launchpad site. In order to access the "SAP Task Center" as business user (task approver), please open the URL in "Incognito"-mode browser session or logout all your sessions for the platform user (BTP Admin):
+11. Afterwards you will be able to see all settings for your newly created launchpad site. In order to access the "SAP Task Center" as business user (task approver), please open the URL in "Incognito"-mode browser session or logout all your sessions for the platform user (BTP Admin):
 
     <br>![](/exercises/ex1/images/lp_site_manager_site_edit.png)
 
@@ -222,7 +221,7 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     <br>![](/exercises/ex1/images/theme_03.png)
 
-**Congratulations** with this you can now access the SAP Task Center applications via the BTP Launchpad service !!!
+**Congratulations**! with this you can now access the SAP Task Center applications via the BTP Launchpad service !!!
 In the next exercise we will configure "Single-Sign-On" (SSO) with SAP Cloud Identity Services.
 
 
@@ -246,8 +245,8 @@ Specify a password:
 
 <br>![](/exercises/ex1/images/user_profile_cert_pw.png)
 
-Afterwards a download of the "new" certificate will start, please store the file on a known place in the file system and open (double click) the file.
-In the upcoming wizard step trough all steps w/o changing the defaults:
+Afterwards a download of the "new" certificate will start, please store the file in a known place at the file system and **open** (double click) the file.
+In the upcoming wizard proceed through all steps w/o changing the defaults:
 
 <br>![](/exercises/ex1/images/user_profile_cert_import1.png)
 
@@ -259,11 +258,11 @@ By entering now the BTP Launchpad site url you should now able to select a certi
 
 <br>![](/exercises/ex1/images/cert_based_logon.png)
 
-And afterwards you are successfully logged on at the BTP Launchpad site with the SAP Task Center applications:
+And now you have successfully logged on to the BTP Launchpad site with the SAP Task Center applications:
 
 <br>![](/exercises/ex1/images/cert_based_logon_lp.png)
 
-**Congratulations** you have now finished the entire "[Exercise 1](README.md)" after completing this last step.
+**Congratulations**! Now that you have completed the last step, you have finished the entire "[Exercise 1](README.md)" after completing this last step.
 You can now switch back to main page of the hands-on or directly start with "[Exercise 2](../ex2/README.md)"
 
 ## Summary
