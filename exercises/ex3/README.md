@@ -19,11 +19,11 @@ In this exercise, we will integrate SAP Process Automation as additional task pr
     * __Authentication__: OAuth2SAMLBearerAssertion
     * __Audience__: https://teched-spa-tc-eu10-mthzww43.authentication.eu10.hana.ondemand.com
     * __AuthnContextClassRef__: urn:oasis:names:tc:SAML:2.0:ac:classes:PreviousSession
-    * __Client Key:__: Dedsb-9be2997d-a9b2-4a73-83d9-b1ac80a3528f!b152845|xsuaa!b120249icated
+    * __Client Key:__: sb-9be2997d-a9b2-4a73-83d9-b1ac80a3528f!b152845|xsuaa!b120249
     * __Token Service URL Type:__: Dedicated
     * __Token Service URL:__: https://teched-spa-tc-eu10-mthzww43.authentication.eu10.hana.ondemand.com/oauth/token/alias/teched-spa-tc-eu10-mthzww43.aws-live-eu10
     * __Token Service User:__: sb-9be2997d-a9b2-4a73-83d9-b1ac80a3528f!b152845|xsuaa!b120249
-    * __Token Service Password:__: Welcome123
+    * __Token Service Password:__: UAjkqggppiMPrd1FqS7eh2cii2c=
    
  4. Under Additional Properties, click **New Property** and add the following properties one at a time:
     * __nameIdFormat__: urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress
