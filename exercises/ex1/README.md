@@ -93,7 +93,7 @@ The last step for this exercise is now to create a new destination to integrate 
 | ------------- |-------------|
 | Service Instance:| ***Name from the previous created "Service Instance"***|
 | Name:| ***sap_task_center_lp***|
-| Description: | ***Description of yoour choice***|
+| Description: | ***Description of your choice***|
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
 
