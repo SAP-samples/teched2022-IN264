@@ -15,51 +15,28 @@ Content in this Exercise:
 
 ## Exercise 1.1 Enable SAP Task Center manually
 
-For the setup of SAP Task Center manually, its required to execute some steps.
 To ensure that the BTP subaccount is well prepared we need to check the availability of the following BTP services:
 
 - [SAP Task Center](https://discovery-center.cloud.sap/serviceCatalog/sap-task-center?region=all)
 - [SAP BTP Launchpad](https://discovery-center.cloud.sap/serviceCatalog/launchpad-service?region=all)
 
-Please perform the following steps for the validation:
+Please perform the following steps to validate the required entitlements:
 
-1. Enter your BTP subaccount an choose from the left hand navigation the **Entitlements** entry.
+1. Enter your BTP subaccount and choose from the left hand navigation the **Entitlements** entry.
 
 2. Search now for "Task Center" to ensure the service is entitled for the subaccount:
 <br>![](/exercises/ex1/images/manual_check_stc_entitlem.png)
 
-
-*//TODO LP and CF should already been enabled. So no need to check this*
-
 3. Additional search for "Launchpad" to validate also that this service is entitled for the subaccount.
 <br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
-In the next step we also need to enable the **Cloud Foundry** environment:
-
-<br>![](/exercises/ex1/images/enable_cf.png)
-
-Create a **Space**:
-
-<br>![](/exercises/ex1/images/create_space.png)
-
 After all prerequisites are met, we can now start to setup SAP Task Center.
-Switch now to **Instances and Subscriptions**  to get started and press **create**:
+**[Info]** The enablement of CloudFoundry is already executed
+
+Switch now to **Instances and Subscriptions**  to get started (you will notice SAP Launchpad Service is already subscribed)press **create**:
 In the upcoming screen we need now to create:
 
 <br>![](/exercises/ex1/images/start_create_sub_and_instances.png)
-
-1. The subscription to the BTP Launchpad service:
-
-  <br>![](/exercises/ex1/images/create_lp_sub.png)
-
-  You should afterwards identify that the process will be started:
-
-  <br>![](/exercises/ex1/images/create_lp_sub_prc.png)
-
-  And finally the launchpad is successfully subscribed:
-
-  <br>![](/exercises/ex1/images/create_lp_sub_sucess.png)
-
 
 2.  To create the Task Center instance just press again the **create** button and select the SAP Task Center service.
     Please specify a "Instance Name" and create the instance:
