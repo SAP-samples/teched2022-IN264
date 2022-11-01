@@ -31,15 +31,15 @@ Please perform the following steps to validate the required entitlements:
 <br>![](/exercises/ex1/images/manual_check_lp_entitlem.png)
 
 After all prerequisites are met, we can now start to setup SAP Task Center.
+
 **[Info]** The enablement of CloudFoundry is already executed
 
-Switch now to **Instances and Subscriptions**  to get started (you will notice SAP Launchpad Service is already subscribed)press **create**:
-In the upcoming screen we need now to create:
+Switch now to **Instances and Subscriptions**  to get started (you will identify **SAP Launchpad Service** is already subscribed) press now **create** button:
 
 <br>![](/exercises/ex1/images/start_create_sub_and_instances.png)
 
-2.  To create the Task Center instance just press again the **create** button and select the SAP Task Center service.
-    Please specify a "Instance Name" and create the instance:
+2.  To create the Task Center instance click on the **create** button and select the SAP Task Center service.
+    Please specify an "Instance Name" and create the instance:
 
   <br>![](/exercises/ex1/images/stc_inst_create.png)
 
@@ -52,7 +52,7 @@ In the upcoming screen we need now to create:
   <br>![](/exercises/ex1/images/stc_inst_create_success.png)
 
 
-3. (Optional) If u want to call the SAP Task Center API for example via Postman you need to create a "Service Key":
+3. (Optional) If u want to call the [SAP Task Center API](https://api.sap.com/package/SAPTaskCenter/rest) for example via Postman you need to create a "Service Key":
 
   <br>![](/exercises/ex1/images/stc_inst_create_sk.png)
 
@@ -74,7 +74,20 @@ The last step for this exercise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
 
-**Congratulations** you've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
+3. Switch now to **Security > Role Collection**. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
+
+  <br>![](/exercises/ex1/images/edit_rc.png)
+  
+  assign & add the roles adn save your changes:
+
+  <br>![](/exercises/ex1/images/assign_roles.png)
+
+
+4. Finally assign this new **Role Collection** to the **Platform User**, switch to **Users**, select the user:
+
+  <br>![](/exercises/ex1/images/assign_rc.png)
+
+**Congratulations** (!) You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
 *TODO add creation and assignment for TC role collection
 
