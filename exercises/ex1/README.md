@@ -32,7 +32,7 @@ Please perform the following steps to validate the required entitlements:
 
 After all prerequisites are met, we can now start to setup SAP Task Center.
 
-**[Info]** The enablement of CloudFoundry is already executed
+**[Info]** The enablement of CloudFoundry was already executed
 
 Switch now to **Instances and Subscriptions**  to get started (you will identify **SAP Launchpad Service** is already subscribed) press now **create** button:
 
@@ -73,8 +73,10 @@ The last step for this exercise is now to create a new destination to integrate 
 | Description: | ***Description of your choice***|
 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
+  
+  Switch now to **Security > Role Collection**. 
 
-3. Switch now to **Security > Role Collection**. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
+3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
 
   <br>![](/exercises/ex1/images/edit_rc.png)
   
