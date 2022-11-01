@@ -50,9 +50,7 @@ In order to follow the exercises in this reporsitory, you should have knowledge 
 - [Exercise 4 - Check the Workflow as business user (task approver) 👩‍💼](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Exercise 5 - Connect Mobile Start 📱](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) *TODO: @mar-hol responsible -  makes Review*
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
-* TODO:@fabianleh responsible -  makes Review
-- [Troubleshooting](exercises/ex2/)
-- [Additional ressources](exercises/ex2/)
+- [Additional ressources](exercises/additional/README.md)
 
 ## How to obtain support
 
