@@ -54,18 +54,6 @@ In order to follow the exercises in this reporsitory, you should have knowledge 
 - [Troubleshooting](exercises/ex2/)
 - [Additional ressources](exercises/ex2/)
 
-## Further Resources
-
-    #exercise-32---sap-process-automation-start-process
-
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
