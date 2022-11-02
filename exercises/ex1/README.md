@@ -58,7 +58,9 @@ Switch now to **Instances and Subscriptions**  to get started (you will identify
 
 The last step for this exercise is now to create a new destination to integrate SAP Task Center in the BTP Launchpad.
 
-1. Please switch now to **Destinations** and create a **New Destination**:
+### Create a destination to get SAP Task Center HTML5 apps
+
+1. Please switch now to **Destinations** and create a **New** one:
 
   <br>![](/exercises/ex1/images/destination.png)
 
@@ -75,6 +77,8 @@ The last step for this exercise is now to create a new destination to integrate 
   <br>![](/exercises/ex1/images/stc_dest_lp_int.png)
   
   Switch now to **Security > Role Collection**. 
+
+### Create and assign authorization 
 
 3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
 
