@@ -36,19 +36,21 @@ Access the respective subaccount (name: IN264-xx)
 6. Click **Services >> Instance and Subscriptions** and confirm that you have subscription to the **Launchpad Service**.
 ![](/exercises/ex0/images/lp_check.png)
 
-7.  Click on the link below to download a zip file containing additional resources that you will need for later exercises.
+## Get required additional files to perform this "Hands-On" successful
+
+1.  Click on the link below to download a zip file containing additional resources that you will need for later exercises.
 [IN264_Resources](https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/IN264-Resources.zip)
 
-8. Confirm that **IN264-Resources.zip** file is in the downloads folder.
+2. Confirm that **IN264-Resources.zip** file is in the downloads folder.
 ![](/exercises/ex0/images/Ex0-2.png)
 
-9. Right click on **INS264-Resources.zip** and choose the **Extract All...** option from the context menu.
+3. Right click on **INS264-Resources.zip** and choose the **Extract All...** option from the context menu.
 ![](/exercises/ex0/images/Ex0-3.png)
 
-10. Extract the file under the Windows downloads folder.
+4. Extract the file under the Windows downloads folder.
 ![](/exercises/ex0/images/Ex0-4.png)
 
-11. Access the IN264-Resources folder and confirm that you see the files and folders shown in the screenshot.  You will need this content for later exercises.
+5. Access the IN264-Resources folder and confirm that you see the files and folders shown in the screenshot.  You will need this content for later exercises.
 ![](/exercises/ex0/images/Ex0-5.png)
 
 > ⚠ In case something is missing in your subaccount set up, please reach out to your session instructors 👩‍🏫.
