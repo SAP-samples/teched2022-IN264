@@ -47,7 +47,7 @@ In order to follow the exercises in this repository, you should have knowledge a
     - [Exercise 3.3 - Execute the API request to start a SAP Process Automation process](exercises/ex3/README.md#exercise-32---execute-the-api-request-to-start-a-sap-process-automation-process)
 - [Exercise 4 - Check the Workflow as business user (task approver) 👩‍💼](exercises/ex4/README.md#exercise-4---check-the-task-workflow-as-business-user-task-approver-👩‍💼)
 
-- [Exercise 5 - Connect Mobile Start 📱](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) 
+- [Exercise 5 - Connect SAP Mobile Start 📱](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) 
 
 - [Demo: BTP Setup Automator](https://github.com/SAP-samples/btp-setup-automator)
 - [Additional resources](exercises/additional/README.md)
