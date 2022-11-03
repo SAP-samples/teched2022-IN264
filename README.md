@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session "IN264 - E
 
 ## Overview
 
-In this Hands-On exercises will guide you to setting a End-To-End scenario with SAP Task Center and connecting different task providers.
+These Hands-On exercises will guide you in setting an End-To-End scenario with SAP Task Center and connecting different task providers.
 
 ## Scenario
 
@@ -15,7 +15,7 @@ In this Hands-On we will integrate two "Task Providers":
 - SAP S/4HANA On Premise
 - SAP Process Automation
 
-In addition other BTP components are used and be configured for successfully running this scenario End-to-End.
+In addition other BTP components are used and will be configured for successfully running this scenario End-to-End.
 
 ![SAP BTP Solution Diagram - SAP Task Center](images/0_btp_taskcenter_teched_scenario.png)
 
