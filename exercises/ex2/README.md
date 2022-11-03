@@ -18,6 +18,7 @@ Option 1: Create destination manually
     * __Name__: S4HANA
     * __Type__: HTTP
     * __URL__: http://s4hana1.tdc.sap.com:50081
+    * __Proxy Type__: OnPremise
     * __Authentication__: BasicAuthentication
     * __Location ID__: &lt;add IN264-## where ## is your assigned student number&gt;
     * __User__: TC_SRV_USR
