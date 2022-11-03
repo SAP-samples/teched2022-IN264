@@ -80,23 +80,31 @@ The last step for this exercise is now to create a new destination to integrate 
 
 ### Create and assign authorization 
 
-3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
+3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**:
+
+ <br>![](/exercises/ex1/images/create_rc.png)
+
+  Choose **edit**:
 
   <br>![](/exercises/ex1/images/edit_rc.png)
   
-  assign now booth roles: 
+  Assign now the following roles: 
 
-  - TaskCenterAdmin
-  - TaskCenterTenantOperator
+  - **TaskCenterAdmin**
+  - **TaskCenterTenantOperator**
 
   Save your changes:
 
   <br>![](/exercises/ex1/images/assign_roles.png)
 
 
-4. Finally assign this new **Role Collection** to your **Platform User**, switch to **Users**, select the user and assign the new **Role Collection**:
+4. Finally assign this new **Role Collection** to your **Business User** (without "-P"), switch to **Users**, select the user and assign the new **Role Collection**:
 
   <br>![](/exercises/ex1/images/assign_rc.png)
+
+To double check, if you switch back to the **role collection**, it looks similar like this:
+
+  <br>![](/exercises/ex1/images/rc_assigment_check.png)
 
 **Congratulations**! You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
