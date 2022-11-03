@@ -75,18 +75,33 @@ As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files
 
 <br>![](/exercises/ex3/images/postman_collection.png)
 
-In the Postman UI choose the **Import** button and provide in the next screen the "json" file:
+1. In the Postman UI choose the **Import** button and provide in the next screen the "json" file:
 
 - "*IN264.postman_collection.json*"
 
-Afterwards you should now identify a new "Postman
+2. Afterwards you should now identify a new "Postman" collection:
 
-1. Search and Select the API request **IN264 start prc**:
+<br>![](/exercises/ex3/images/postman_import_success.png)
+
+3. Search and Select the API request **IN264 start prc**:
+
 <br>![](/exercises/ex3/images/postman.png)
 
-2. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user .
+4. Choose now the **Authorization** tab of the request and press the **Get New Access Token" button"
 
-3. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
+<br>![](/exercises/ex3/images/postman_auth.png)
+
+5. Click on the **Proceed** button:
+
+<br>![](/exercises/ex3/images/postman_proceed.png)
+
+6. Finally click on the **Use Toke** button, to use this token fort the authorization against the API endpoint.
+
+### Execute the API request
+
+1. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user .
+
+2. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
 <br>![](/exercises/ex3/images/201.png)
 
 ## Summary
