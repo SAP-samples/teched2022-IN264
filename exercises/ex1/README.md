@@ -102,7 +102,7 @@ The last step for this exercise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/assign_rc.png)
   
-  To double check, if you switch back to the **role collection**, it looks similar like this:
+  If you switch now back to the **role collection**, the assignment should now look like this:
 
   <br>![](/exercises/ex1/images/rc_assigment_check.png)
 
