@@ -174,7 +174,7 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     <br>![](/exercises/ex1/images/lp_site_manager_html5_apps.png)
 
-    As result you should now see to entries/apps:
+    As a result you should now see two entries/apps:
 
     - Task Center
     - Task Center Administration
@@ -220,7 +220,7 @@ In the upcoming exercise we will add the SAP Task Center apps to your BTP Launch
 
     <br>![](/exercises/ex1/images/lp_site_launch.png)
 
-13. By entering the first (Task Center) tile you should now see the (empty) SAP Tas Center application:
+13. By entering the first (Task Center) tile you should now see the (empty) SAP Task Center application:
 
     <br>![](/exercises/ex1/images/tc_final.png)
 
