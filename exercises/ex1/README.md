@@ -82,7 +82,7 @@ The last step for this exercise is now to create a new destination to integrate 
 
 3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**:
 
- <br>![](/exercises/ex1/images/create_rc.png)
+  <br>![](/exercises/ex1/images/create_rc.png)
 
   Choose **edit**:
 
@@ -101,8 +101,8 @@ The last step for this exercise is now to create a new destination to integrate 
 4. Finally assign this new **Role Collection** to your **Business User** (without "-P"), switch to **Users**, select the user and assign the new **Role Collection**:
 
   <br>![](/exercises/ex1/images/assign_rc.png)
-
-To double check, if you switch back to the **role collection**, it looks similar like this:
+  
+  To double check, if you switch back to the **role collection**, it looks similar like this:
 
   <br>![](/exercises/ex1/images/rc_assigment_check.png)
 
