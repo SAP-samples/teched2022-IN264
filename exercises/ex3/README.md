@@ -93,6 +93,8 @@ As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files
 
 6. Finally click on the **Use Toke** button, to use this token fort the authorization against the API endpoint.
 
+<br>![](/exercises/ex3/images/postman_use_token.png)
+
 ### Execute the API request
 
 1. Search and Select the API request **IN264 start prc**:
