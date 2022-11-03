@@ -71,7 +71,7 @@ To validate that we can also have SAP Process Automation tasks available for SAP
 
 ### Prepare the API request
 
-As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files-to-perform-this-hands-on-successful)** we need now to import this file: 
+As described in the **[Exercise 0](/exercises/ex0#get-required-additional-files-to-perform-this-hands-on-successful)** we need now to import this file: 
 
 <br>![](/exercises/ex3/images/postman_collection.png)
 
