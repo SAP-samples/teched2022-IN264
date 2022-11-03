@@ -58,7 +58,9 @@ Switch now to **Instances and Subscriptions**  to get started (you will identify
 
 The last step for this exercise is now to create a new destination to integrate SAP Task Center in the BTP Launchpad.
 
-1. Please switch now to **Destinations** and create a **New Destination**:
+### Create a destination to get SAP Task Center HTML5 apps
+
+1. Please switch now to **Destinations** and create a **New** one:
 
   <br>![](/exercises/ex1/images/destination.png)
 
@@ -76,18 +78,33 @@ The last step for this exercise is now to create a new destination to integrate 
   
   Switch now to **Security > Role Collection**. 
 
-3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**, choose **edit**:
+### Create and assign authorization 
+
+3. To get access to the SAP Task Center Admin application we need to create a new **Role Collection**:
+
+  <br>![](/exercises/ex1/images/create_rc.png)
+
+  Choose **edit**:
 
   <br>![](/exercises/ex1/images/edit_rc.png)
   
-  assign & add the roles adn save your changes:
+  Assign now the following roles: 
+
+  - **TaskCenterAdmin**
+  - **TaskCenterTenantOperator**
+
+  Save your changes:
 
   <br>![](/exercises/ex1/images/assign_roles.png)
 
 
-4. Finally assign this new **Role Collection** to your **Platform User**, switch to **Users**, select the user and assign the new **Role Collection**:
+4. Finally assign this new **Role Collection** to your **Business User** (without "-P"), switch to **Users**, select the user and assign the new **Role Collection**:
 
   <br>![](/exercises/ex1/images/assign_rc.png)
+  
+  If you switch now back to the **role collection**, the assignment should now look like this:
+
+  <br>![](/exercises/ex1/images/rc_assigment_check.png)
 
 **Congratulations**! You've now completed all necessary steps for the initial setup of SAP Task Center. In the next [exercise](README.md#exercise-13-integrate-the-sap-task-center-service-into-sap-btp-launchpad) we will learn how to access the SAP Task Center applications by setting up the BTP Launchpad Service.
 
