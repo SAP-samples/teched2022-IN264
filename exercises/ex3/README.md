@@ -83,11 +83,7 @@ As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files
 
 <br>![](/exercises/ex3/images/postman_import_success.png)
 
-3. Search and Select the API request **IN264 start prc**:
-
-<br>![](/exercises/ex3/images/postman.png)
-
-4. Choose now the **Authorization** tab of the request and press the **Get New Access Token" button"
+4. Select the API request and switch to the **Authorization** tab and press the **Get New Access Token" button"
 
 <br>![](/exercises/ex3/images/postman_auth.png)
 
@@ -99,9 +95,13 @@ As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files
 
 ### Execute the API request
 
-1. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user .
+1. Search and Select the API request **IN264 start prc**:
 
-2. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
+<br>![](/exercises/ex3/images/postman.png)
+
+2. **IMPORTANT** update the **global_user_id** with the value of the **UUID** for your SAP Task Center user .
+
+3. Execute the API request by pressing the **Send** button and check afterwards that you get an **201** status response:
 <br>![](/exercises/ex3/images/201.png)
 
 ## Summary
