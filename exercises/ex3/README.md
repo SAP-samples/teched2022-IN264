@@ -62,12 +62,24 @@ After completing these steps you will confirm that SAP Process Automation connec
 5. Click **Task Center Administrator**.
 <br>![](/exercises/ex3/images/admin_app.png)
 
-6. Click S4HANA and confirm the status is **OK**.
+6. Click **SPA_rem** and confirm the status is **OK**.
 <br>![](/exercises/ex3/images/spa_admin_app_success.png)
 
 ## Exercise 3.2 - Execute the API request to start a SAP Process Automation process
 
 To validate that we can also have SAP Process Automation tasks available for SAP Task Center please execute the following API via Postman:
+
+### Prepare the API request
+
+As described in the **[Excercise 0](/exercises/ex0#get-required-additional-files-to-perform-this-hands-on-successful)** we need now to import this file: 
+
+<br>![](/exercises/ex3/images/postman_collection.png)
+
+In the Postman UI choose the **Import** button and provide in the next screen the "json" file:
+
+- "*IN264.postman_collection.json*"
+
+Afterwards you should now identify a new "Postman
 
 1. Search and Select the API request **IN264 start prc**:
 <br>![](/exercises/ex3/images/postman.png)
