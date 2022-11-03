@@ -84,7 +84,12 @@ The last step for this exercise is now to create a new destination to integrate 
 
   <br>![](/exercises/ex1/images/edit_rc.png)
   
-  assign & add the roles adn save your changes:
+  assign now booth roles: 
+
+  - TaskCenterAdmin
+  - TaskCenterTenantOperator
+
+  Save your changes:
 
   <br>![](/exercises/ex1/images/assign_roles.png)
 
