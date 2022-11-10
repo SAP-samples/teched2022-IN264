@@ -13,7 +13,7 @@ These Hands-On exercises will guide you in setting an End-To-End scenario with S
 In this Hands-On we will integrate two "Task Providers":
 
 - SAP S/4HANA On Premise
-- SAP Process Automation
+- SAP Build Process Automation
 
 In addition other BTP components are used and will be configured for successfully running this scenario End-to-End.
 
@@ -41,10 +41,10 @@ In order to follow the exercises in this repository, you should have knowledge a
     - [Exercise 2.1 - Create SAP S/4HANA Destination](exercises/ex2/README.md#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Check SAP S/4HANA connectivity via Task Center Admin app](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
     - [Exercise 2.3 - Update user UUID in SAP S/4HANA](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
-- [Exercise 3 - Integrate SAP Process Automation as task provider](exercises/ex3/README.md)
-    - [Exercise 3.1 - Create SAP Process Automation Destination](exercises/ex3/README.md#exercise-31-create-the-destination-to-the-sap-process-automation-instance-from-a-remote-subaccount)
-    - [Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32---check-sap-process-automation-connectivity-via-task-center-admin-app)
-    - [Exercise 3.3 - Execute the API request to start a SAP Process Automation process](exercises/ex3/README.md#exercise-32---execute-the-api-request-to-start-a-sap-process-automation-process)
+- [Exercise 3 - Integrate SAP Build Process Automation as task provider](exercises/ex3/README.md)
+    - [Exercise 3.1 - Create SAP Build Process Automation Destination](exercises/ex3/README.md#exercise-31-create-the-destination-to-the-sap-process-automation-instance-from-a-remote-subaccount)
+    - [Exercise 3.2 - Check SAP Build Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32---check-sap-process-automation-connectivity-via-task-center-admin-app)
+    - [Exercise 3.3 - Execute the API request to start a SAP Build Process Automation process](exercises/ex3/README.md#exercise-32---execute-the-api-request-to-start-a-sap-process-automation-process)
 - [Exercise 4 - Check the Workflow as business user (task approver) 👩‍💼](exercises/ex4/README.md#exercise-4---check-the-task-workflow-as-business-user-task-approver-👩‍💼)
 
 - [Exercise 5 - Connect SAP Mobile Start 📱](exercises/ex2/README.md#exercise-22-sub-exercise-2-description) 
