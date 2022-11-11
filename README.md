@@ -27,6 +27,9 @@ In order to follow the exercises in this repository, you should have knowledge a
 - [SAP Launchpad service](https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/9db48fa44f7e4c62a01bc74c82e74e07.html)
 - [SAP Cloud Identity Services](https://help.sap.com/docs/SAP_CLOUD_IDENTITY)
 
+> **NOTE:** *SAP Launchpad Service* is part of the SAP Build portfolio. In early 2023, we launch a new experience with the new name **SAP Build Work Zone, standard edition**. You can learn more in the [Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=73554900100800003081&PRODUCT=73555000100800002781&range=CURRENT-LAST#Q3%202022). Please be aware that some screenshots or systems in this Hands-on material might still contain the former name *SAP Launchpad Service*.
+> <p align="center"><img src="./images/sap-build-work-zone.jpg" width="65%" /></p>
+
 ## Exercises
 
 - [Getting started & check your hands-on environment ](exercises/ex0/)
