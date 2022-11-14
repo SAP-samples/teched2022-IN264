@@ -12,7 +12,7 @@ System / user details:
 
 **XX = assigned participant number from the speaker team**
 
-1. Access SAP BTP Cockpit URL using the URL below:
+1. Access SAP BTP Cockpit using the URL below:
 
 [SAP BTP Cockpit](https://cockpit.eu10.hana.ondemand.com/cockpit/?idp=tdcteched3.accounts.ondemand.com#/globalaccount/62d9c33d-1b44-4afa-9751-2cb0165ba817)
 

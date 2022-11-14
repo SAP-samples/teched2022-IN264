@@ -1,8 +1,8 @@
-# Exercise 3 - Integrate SAP SAP Process Automation as task provider
+# Exercise 3 - Integrate SAP SAP Build Process Automation as task provider
 
-In this exercise, we will integrate SAP Process Automation as additional task provider to provide you also the idea to implement a "central inbox across SAP solutions.
+In this exercise, we will integrate SAP Build Process Automation as additional task provider to provide you also the idea to implement a "central inbox across SAP solutions.
 
-## Exercise 3.1 create the destination to the SAP Process Automation instance from a remote subaccount
+## Exercise 3.1 create the destination to the SAP Build Process Automation instance from a remote subaccount
 
 ### (Option a) Manual process
 1. Navigate in your BTP subaccount to **Destinations**
@@ -30,7 +30,7 @@ In this exercise, we will integrate SAP Process Automation as additional task pr
     * __tc.enabled__: true
     * __tc.provider_type__: SPA
     * __tc.ui.group__: SAP Process Automation
-    * __tc.ui.label__: SAP Process Automation Task
+    * __tc.ui.label__: SAP Build Process Automation Task
     * __URL.queries.sap-client__: 400
     * __userIdSource__: user_uuid
 
@@ -41,9 +41,9 @@ Navigate in your BTP subaccount to **Destinations** and create a new one by choo
 
 Extract now the [archive](/exercises/ex3/SPA_remote_Destination.zip) and import the destination.
 
-## Exercise 3.2 - Check SAP Process Automation connectivity via Task Center Admin app
+## Exercise 3.2 - Check SAP Build Process Automation connectivity via Task Center Admin app
 
-After completing these steps you will confirm that SAP Process Automation connectivity is working from SAP Task Center.
+After completing these steps you will confirm that SAP Build Process Automation connectivity is working from SAP Task Center.
 
 1.	In your subaccount, click **Instances and Subscriptions >> Launchpad Service**.
 <br>![](/exercises/ex3/images/lp_subscr.png)
@@ -65,9 +65,9 @@ After completing these steps you will confirm that SAP Process Automation connec
 6. Click **SPA_rem** and confirm the status is **OK**.
 <br>![](/exercises/ex3/images/spa_admin_app_success.png)
 
-## Exercise 3.2 - Execute the API request to start a SAP Process Automation process
+## Exercise 3.2 - Execute the API request to start a SAP Build Process Automation process
 
-To validate that we can also have SAP Process Automation tasks available for SAP Task Center please execute the following API via Postman:
+To validate that we can also have SAP Build Process Automation tasks available for SAP Task Center please execute the following API via Postman:
 
 ### Prepare the API request
 
@@ -108,5 +108,5 @@ As described in the **[Exercise 0](/exercises/ex0#get-required-additional-files-
 
 ## Summary
 
-You've now setup the destination configuration that needs to be done for SAP Task Center in order to work with SAP Process Automation tasks.
-But have also a look the current [restrictions](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/9c5114089f8445eea223a19604f79b5c.html?locale=en-US) for SAP Process Automation integration with SAP Task Center
+You've now setup the destination configuration that needs to be done for SAP Task Center in order to work with SAP Build Process Automation tasks.
+But have also a look the current [restrictions](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/9c5114089f8445eea223a19604f79b5c.html?locale=en-US) for SAP Build Process Automation integration with SAP Task Center
