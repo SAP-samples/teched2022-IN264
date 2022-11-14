@@ -1,6 +1,6 @@
 # Exercise 2 - Integrate SAP S/4HANA on-premise as a task provider
 
-In this exercise, we will go through the steps to integrate Task Center with SAP S/4HANA on-premise.  You will create a destination in SAP Business Technology Platform (BTP) to the SAP S/4HANA system, validate the connectivity from SAP Task Center to S/4HANA, and update the UUID field for your SAP S/4HANA user .
+In this exercise, we will go through the steps to integrate Task Center with SAP S/4HANA on-premise.  You will create a destination in SAP Business Technology Platform (BTP) to the SAP S/4HANA system, validate the connectivity from SAP Task Center to S/4HANA, and update the UUID field for your SAP S/4HANA user.
 
 ## Exercise 2.1 Create SAP S/4HANA Destination
 

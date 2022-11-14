@@ -1,6 +1,6 @@
 # Overview
 
-In this exercise, you will test access to the SAP Business Platform environment and validate the configuration for your SAP BTP subaccount which will be used throughout the session.
+In this exercise, you will test the access to the SAP Business Platform environment and validate the configuration for your SAP BTP subaccount which will be used throughout the session.
 
 ## Validate system access
 
@@ -36,7 +36,7 @@ Access the respective subaccount (name: IN264-xx)
 6. Click **Services >> Instance and Subscriptions** and confirm that you have subscription to the **Launchpad Service**.
 ![](/exercises/ex0/images/lp_check.png)
 
-## Get required additional files to perform this "Hands-On" successful
+## Get required additional files to perform this "Hands-On" successfully
 
 1.  Click on the link below to download a zip file containing additional resources that you will need for later exercises.
 [IN264_Resources](https://github.com/SAP-samples/teched2022-IN264/raw/main/exercises/IN264-Resources.zip)
@@ -44,7 +44,7 @@ Access the respective subaccount (name: IN264-xx)
 2. Confirm that **IN264-Resources.zip** file is in the downloads folder.
 ![](/exercises/ex0/images/Ex0-2.png)
 
-3. Right click on **INS264-Resources.zip** and choose the **Extract All...** option from the context menu.
+3. Right click on **INS264-Resources.zip** and choose **Extract All...** from the context menu.
 ![](/exercises/ex0/images/Ex0-3.png)
 
 4. Extract the file under the Windows downloads folder.
@@ -56,5 +56,5 @@ Access the respective subaccount (name: IN264-xx)
 > ⚠ In case something is missing in your subaccount set up, please reach out to your session instructors 👩‍🏫.
 ## Summary
 
-🎉Congratulations with this first exercise you have successfully validated access to your subaccount and required setup of your BTP subaccount:
-Continue now to the next exercise "Run the BTP Booster for setting up SAP Task Center"- [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+🎉Congratulations! With this first exercise you have successfully validated access to your subaccount and required setup of your BTP subaccount.
+Now continue now to the next exercise [Exercise 1 - Enable SAP Task Center](../ex1/README.md)

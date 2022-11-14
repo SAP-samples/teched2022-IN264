@@ -65,7 +65,7 @@ After completing these steps you will confirm that SAP Build Process Automation 
 6. Click **SPA_rem** and confirm the status is **OK**.
 <br>![](/exercises/ex3/images/spa_admin_app_success.png)
 
-## Exercise 3.2 - Execute the API request to start a SAP Build Process Automation process
+## Exercise 3.3 - Execute the API request to start a SAP Build Process Automation process
 
 To validate that we can also have SAP Build Process Automation tasks available for SAP Task Center please execute the following API via Postman:
 
