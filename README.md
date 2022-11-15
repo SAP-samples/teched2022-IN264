@@ -46,7 +46,7 @@ In order to follow the exercises in this repository, you should have knowledge a
     - [Exercise 2.3 - Update user UUID in SAP S/4HANA](exercises/ex2/README.md#exercise-23-update-user-uuid-in-sap-s4hana)
 - [Exercise 3 - Integrate SAP Build Process Automation as task provider](exercises/ex3/README.md)
     - [Exercise 3.1 - Create SAP Build Process Automation Destination](exercises/ex3/README.md#exercise-31-create-the-destination-to-the-sap-process-automation-instance-from-a-remote-subaccount)
-    - [Exercise 3.2 - Check SAP Build Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32---check-sap-process-automation-connectivity-via-task-center-admin-app)
+    - [Exercise 3.2 - Check SAP Build Process Automation connectivity via Task Center Admin app](exercises/ex3/README.md#exercise-32---check-sap-build-process-automation-connectivity-via-task-center-admin-app)
     - [Exercise 3.3 - Execute the API request to start a SAP Build Process Automation process](exercises/ex3/README.md#exercise-33---execute-the-api-request-to-start-a-sap-build-process-automation-process)
 - [Exercise 4 - Check the Workflow as business user (task approver) 👩‍💼](exercises/ex4/README.md#exercise-4---check-the-task-workflow-as-business-user-task-approver-👩‍💼)
 
