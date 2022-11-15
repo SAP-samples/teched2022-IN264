@@ -16,4 +16,4 @@
 
 > ℹ [SAP Mobile Start - Official product documentation @ SAP Help Documentation ](https://help.sap.com/docs/SAP_MOBILE_START)
 
-Demo: https://tc-validation.authentication.eu10.hana.ondemand.com/login
+Demo: https://tc-validation.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=e299967e-861d-4dd6-9a29-d8092b34c5fa&sap-language=en&sap-theme=sap_horizon#Shell-home
