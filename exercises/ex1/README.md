@@ -1,4 +1,4 @@
-# Exercise 1 - Enable SAP Task Center
+# Enable SAP Task Center service on SAP Business Technology Platform
 
 In this exercise, you will manually setup SAP Task Center service on your subaccount to enable SAP Task Center.  
 > ℹ It is also possible to run a booster in SAP BTP cockpit to setup SAP Task Center, but this procedure is not in the scope of this hands-on.  For your reference, steps to setup SAP Task Center using a booster can be found [here](#exercise-12-execute-the-sap-task-center-booster-for-your-reference-only---skip-this-exercise-and-proceed-exercise-13).  
